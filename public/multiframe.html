@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .body_padding {
+        padding: 16px;
+      }
+
+      .framewrap {
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-bottom: 28px;
+        background-color: #277099;
+        width: 512px;
+        height: 390px;
+        -webkit-box-shadow: 2px 2px 16px -2px;
+        box-shadow: 2px 2px 16px -2px;
+        border-radius: 12px;
+        position: absolute;
+      }
+
+      .framewrap span {
+        color: #ffffff;
+        font-size: small;
+        font-style: normal;
+        font-weight: 100;
+      }
+
+      .framewrap .actionIcon {
+        display: inline-block;
+        float: right;
+        height: 18px;
+        width: 18px;
+        background-image: url(http://findicons.com/files/icons/2711/free_icons_for_windows8_metro/128/minimize_window.png);
+        background-size: cover;
+        background-position: center center;
+      }
+
+      .framewrap .closeIcon {
+        display: inline-block;
+        float: right;
+        height: 18px;
+        width: 18px;
+        background-image: url(https://findicons.com/files/icons/1620/crystal_project/22/cancel.png);
+        background-size: cover;
+        background-position: center center;
+      }
+      .framewrap.min {
+        height: 90px !important;
+        width: 256px !important;
+      }
+
+      .framewrap.min .actionIcon {
+        background-image: url(http://findicons.com/files/icons/2711/free_icons_for_windows8_metro/128/maximize_window.png);
+      }
+
+      .frame {
+        width: 100%;
+        height: 100%;
+        background-color: #fff;
+      }
+    </style>
+  <link
+    rel="stylesheet"
+    href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"
+  />
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+  </head>
+  <div>
+    <div class="framewrap">
+      <span>Window 1</span>
+      <span class="closeIcon"></span>
+      <span class="actionIcon"></span>
+      <iframe class="frame" src="index.html"></iframe>
+    </div>
+    <br/>
+    <div class="framewrap">
+      <span>Window 2</span>
+      <span class="closeIcon"></span>
+      <span class="actionIcon"></span>
+      <iframe class="frame" src="index.html"></iframe>
+    </div>
+  </div>
+  <script>
+    $(function () {
+      "use strict"; 
+      $(".framewrap").resizable().draggable(); 
+      $(".framewrap .actionIcon").on("click", function () {
+        $(this).closest(".framewrap").toggleClass("min");
+      });
+
+      $(".framewrap .closeIcon").on("click", function () {
+        $(this).parent().hide();
+      });
+    });
+  </script>
+</html>

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+      html,
+      body,
+      #container {
+        height: 100%;
+      }
+      @import url(https://fonts.googleapis.com/css?family=Open+Sans:300&subset=latin,latin-ext);
+
+      body {
+        font: 300 20px "Open Sans", sans-serif;
+        color: #666;
+        background-color: #bdc3c7;
+      }
+
+      article {
+        width: 815px;
+        background-color: white;
+        margin: 50px auto;
+        padding: 5px 30px;
+        border-radius: 15px;
+      }
+
+      article h1 {
+        color: #3498db;
+        padding-bottom: 15px;
+        border-bottom: 1px dashed #bdc3c7;
+      }
+
+      article a,
+      article span {
+        color: #3498db;
+        text-decoration: none;
+      }
+
+      article .buton {
+        color: white;
+        position: relative;
+        font-size: 14px;
+        left: 10px;
+        top: -5px;
+        background-color: #3498db;
+        text-decoration: none;
+        padding: 3px 6px;
+      }
+
+      article .buton:hover {
+        background-color: #2980b9;
+      }
+      /* Tooltip container */
+      .tooltip {
+        position: absolute;
+        background-color: #333333;
+        color: white;
+        display: inline-block;
+        border-radius: 2px;
+        padding: 0px 5px;
+        font-size: 12px;
+      }
+      .tooltip p {
+        line-height: 12px;
+      }
+    </style>
+    <link rel="stylesheet" href="./dist/style.css" />
+  </head>
+
+  <body>
+    <div id="container" style="height: 100%; width: 100%; display: block"></div>
+
+    <div class="tooltip"></div>
+    <script>
+    /*window.csvLocation = "https://nsdevaraj.github.io/data.csv";
+      window.csvOptions = {
+        rows: ["Name"],
+        columns: [],
+        ac_roles: [
+          "Cases - cumulative total",
+          "Cases - cumulative total per 100000 population",
+          "Cases - newly reported in last 7 days",
+          "Cases - newly reported in last 7 days per 100000 population",
+          "Cases - newly reported in last 24 hours"],
+        py_roles:[  "Deaths - cumulative total",
+          "Deaths - cumulative total per 100000 population",
+          "Deaths - newly reported in last 7 days"],
+        pl_roles:[
+          "Deaths - newly reported in last 7 days per 100000 population"],
+        fc_roles:["Deaths - newly reported in last 24 hours",
+        ], */
+
+      const setLocation = () => {
+        console.log(`current page ${window.current}`)
+        window.csvLocation = `../../config/${window.current}.csv`;
+        window.config = `./../json/${window.current}Configuration.json`;
+      }  
+
+      window.current = 5;
+      setLocation();
+
+      //mock methods need to be removed later
+      window.next = () => {
+        window.current++;
+        setLocation()
+        window.updateTable()
+      }
+
+      window.prev = () => {
+        window.current--;
+        setLocation()
+        window.updateTable()
+      }
+
+
+      window.setPage = (page) => {
+        window.current = page;
+        setLocation()
+        window.updateTable()
+      }
+      //mock methods need to be removed later
+
+
+      //window.csvOptions = {"rows":["Level 2 Description","Level 3 Description"],"columns":[],"rolesMap":[["2021 Actuals",["AC"]]],"ac_roles":["AC"],"pl_roles":[],"py_roles":[],"fc_roles":[],"om_roles":[]}};
+    </script>
+    <script src="./dist/index.js"></script>
+  </body>
+</html>

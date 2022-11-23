@@ -1,0 +1,16 @@
+{
+  "name": "@lumel/matrix-web",
+  "version": "1.8.0-alpha.244",
+  "description": "",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "dependencies": {
+    "express": "4.18.2"
+  },
+  "devDependencies": {},
+  "peerDependencies": {}
+}

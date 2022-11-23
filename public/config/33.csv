@@ -1,0 +1,769 @@
+Category,SubCategory,Quarter,Month,Value Column Name,Value
+"Audio","Bluetooth Headphones","Q1","Jan","Forecast","36598.8"
+"Audio","Bluetooth Headphones","Q1","Jan","Actuals","34856"
+"Audio","Bluetooth Headphones","Q1","Feb","Forecast","27271.65"
+"Audio","Bluetooth Headphones","Q1","Feb","Actuals","25973"
+"Audio","Bluetooth Headphones","Q1","Mar","Forecast","18396"
+"Audio","Bluetooth Headphones","Q1","Mar","Actuals","17520"
+"Audio","Bluetooth Headphones","Q2","Apr","Forecast","15340.5"
+"Audio","Bluetooth Headphones","Q2","Apr","Actuals","14610"
+"Audio","Bluetooth Headphones","Q2","May","Forecast","18659.55"
+"Audio","Bluetooth Headphones","Q2","May","Actuals","17771"
+"Audio","Bluetooth Headphones","Q2","Jun","Forecast","23700.600000000002"
+"Audio","Bluetooth Headphones","Q2","Jun","Actuals",
+"Audio","Bluetooth Headphones","Q3","Jul","Forecast","24420.9"
+"Audio","Bluetooth Headphones","Q3","Jul","Actuals",
+"Audio","Bluetooth Headphones","Q3","Aug","Forecast",
+"Audio","Bluetooth Headphones","Q3","Aug","Actuals",
+"Audio","Bluetooth Headphones","Q3","Sep","Forecast",
+"Audio","Bluetooth Headphones","Q3","Sep","Actuals",
+"Audio","Bluetooth Headphones","Q4","Oct","Forecast",
+"Audio","Bluetooth Headphones","Q4","Oct","Actuals",
+"Audio","Bluetooth Headphones","Q4","Nov","Forecast",
+"Audio","Bluetooth Headphones","Q4","Nov","Actuals",
+"Audio","Bluetooth Headphones","Q4","Dec","Forecast",
+"Audio","Bluetooth Headphones","Q4","Dec","Actuals",
+"Audio","MP4&MP3","Q1","Jan","Forecast",
+"Audio","MP4&MP3","Q1","Jan","Actuals",
+"Audio","MP4&MP3","Q1","Feb","Forecast",
+"Audio","MP4&MP3","Q1","Feb","Actuals",
+"Audio","MP4&MP3","Q1","Mar","Forecast",
+"Audio","MP4&MP3","Q1","Mar","Actuals",
+"Audio","MP4&MP3","Q2","Apr","Forecast",
+"Audio","MP4&MP3","Q2","Apr","Actuals",
+"Audio","MP4&MP3","Q2","May","Forecast",
+"Audio","MP4&MP3","Q2","May","Actuals",
+"Audio","MP4&MP3","Q2","Jun","Forecast",
+"Audio","MP4&MP3","Q2","Jun","Actuals",
+"Audio","MP4&MP3","Q3","Jul","Forecast",
+"Audio","MP4&MP3","Q3","Jul","Actuals",
+"Audio","MP4&MP3","Q3","Aug","Forecast",
+"Audio","MP4&MP3","Q3","Aug","Actuals",
+"Audio","MP4&MP3","Q3","Sep","Forecast",
+"Audio","MP4&MP3","Q3","Sep","Actuals",
+"Audio","MP4&MP3","Q4","Oct","Forecast",
+"Audio","MP4&MP3","Q4","Oct","Actuals",
+"Audio","MP4&MP3","Q4","Nov","Forecast",
+"Audio","MP4&MP3","Q4","Nov","Actuals",
+"Audio","MP4&MP3","Q4","Dec","Forecast",
+"Audio","MP4&MP3","Q4","Dec","Actuals",
+"Audio","REconomyrding Pen","Q1","Jan","Forecast","26093.550000000003"
+"Audio","REconomyrding Pen","Q1","Jan","Actuals","24851"
+"Audio","REconomyrding Pen","Q1","Feb","Forecast","21160.65"
+"Audio","REconomyrding Pen","Q1","Feb","Actuals","20153"
+"Audio","REconomyrding Pen","Q1","Mar","Forecast","9940.35"
+"Audio","REconomyrding Pen","Q1","Mar","Actuals","9467"
+"Audio","REconomyrding Pen","Q2","Apr","Forecast","18090.45"
+"Audio","REconomyrding Pen","Q2","Apr","Actuals","17229"
+"Audio","REconomyrding Pen","Q2","May","Forecast","18232.2"
+"Audio","REconomyrding Pen","Q2","May","Actuals","17364"
+"Audio","REconomyrding Pen","Q2","Jun","Forecast","17425.8"
+"Audio","REconomyrding Pen","Q2","Jun","Actuals",
+"Audio","REconomyrding Pen","Q3","Jul","Forecast","22814.4"
+"Audio","REconomyrding Pen","Q3","Jul","Actuals",
+"Audio","REconomyrding Pen","Q3","Aug","Forecast",
+"Audio","REconomyrding Pen","Q3","Aug","Actuals",
+"Audio","REconomyrding Pen","Q3","Sep","Forecast",
+"Audio","REconomyrding Pen","Q3","Sep","Actuals",
+"Audio","REconomyrding Pen","Q4","Oct","Forecast",
+"Audio","REconomyrding Pen","Q4","Oct","Actuals",
+"Audio","REconomyrding Pen","Q4","Nov","Forecast",
+"Audio","REconomyrding Pen","Q4","Nov","Actuals",
+"Audio","REconomyrding Pen","Q4","Dec","Forecast",
+"Audio","REconomyrding Pen","Q4","Dec","Actuals",
+"Cameras and camcorders","Camcorders","Q1","Jan","Forecast",
+"Cameras and camcorders","Camcorders","Q1","Jan","Actuals",
+"Cameras and camcorders","Camcorders","Q1","Feb","Forecast",
+"Cameras and camcorders","Camcorders","Q1","Feb","Actuals",
+"Cameras and camcorders","Camcorders","Q1","Mar","Forecast",
+"Cameras and camcorders","Camcorders","Q1","Mar","Actuals",
+"Cameras and camcorders","Camcorders","Q2","Apr","Forecast",
+"Cameras and camcorders","Camcorders","Q2","Apr","Actuals",
+"Cameras and camcorders","Camcorders","Q2","May","Forecast",
+"Cameras and camcorders","Camcorders","Q2","May","Actuals",
+"Cameras and camcorders","Camcorders","Q2","Jun","Forecast",
+"Cameras and camcorders","Camcorders","Q2","Jun","Actuals",
+"Cameras and camcorders","Camcorders","Q3","Jul","Forecast",
+"Cameras and camcorders","Camcorders","Q3","Jul","Actuals",
+"Cameras and camcorders","Camcorders","Q3","Aug","Forecast",
+"Cameras and camcorders","Camcorders","Q3","Aug","Actuals",
+"Cameras and camcorders","Camcorders","Q3","Sep","Forecast",
+"Cameras and camcorders","Camcorders","Q3","Sep","Actuals",
+"Cameras and camcorders","Camcorders","Q4","Oct","Forecast",
+"Cameras and camcorders","Camcorders","Q4","Oct","Actuals",
+"Cameras and camcorders","Camcorders","Q4","Nov","Forecast",
+"Cameras and camcorders","Camcorders","Q4","Nov","Actuals",
+"Cameras and camcorders","Camcorders","Q4","Dec","Forecast",
+"Cameras and camcorders","Camcorders","Q4","Dec","Actuals",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q1","Jan","Forecast",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q1","Jan","Actuals",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q1","Feb","Forecast",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q1","Feb","Actuals",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q1","Mar","Forecast",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q1","Mar","Actuals",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q2","Apr","Forecast",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q2","Apr","Actuals",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q2","May","Forecast",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q2","May","Actuals",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q2","Jun","Forecast",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q2","Jun","Actuals",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q3","Jul","Forecast",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q3","Jul","Actuals",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q3","Aug","Forecast",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q3","Aug","Actuals",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q3","Sep","Forecast",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q3","Sep","Actuals",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q4","Oct","Forecast",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q4","Oct","Actuals",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q4","Nov","Forecast",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q4","Nov","Actuals",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q4","Dec","Forecast",
+"Cameras and camcorders","Cameras & Camcorders Accessories","Q4","Dec","Actuals",
+"Cameras and camcorders","Digital Cameras","Q1","Jan","Forecast",
+"Cameras and camcorders","Digital Cameras","Q1","Jan","Actuals",
+"Cameras and camcorders","Digital Cameras","Q1","Feb","Forecast",
+"Cameras and camcorders","Digital Cameras","Q1","Feb","Actuals",
+"Cameras and camcorders","Digital Cameras","Q1","Mar","Forecast",
+"Cameras and camcorders","Digital Cameras","Q1","Mar","Actuals",
+"Cameras and camcorders","Digital Cameras","Q2","Apr","Forecast",
+"Cameras and camcorders","Digital Cameras","Q2","Apr","Actuals",
+"Cameras and camcorders","Digital Cameras","Q2","May","Forecast",
+"Cameras and camcorders","Digital Cameras","Q2","May","Actuals",
+"Cameras and camcorders","Digital Cameras","Q2","Jun","Forecast",
+"Cameras and camcorders","Digital Cameras","Q2","Jun","Actuals",
+"Cameras and camcorders","Digital Cameras","Q3","Jul","Forecast",
+"Cameras and camcorders","Digital Cameras","Q3","Jul","Actuals",
+"Cameras and camcorders","Digital Cameras","Q3","Aug","Forecast",
+"Cameras and camcorders","Digital Cameras","Q3","Aug","Actuals",
+"Cameras and camcorders","Digital Cameras","Q3","Sep","Forecast",
+"Cameras and camcorders","Digital Cameras","Q3","Sep","Actuals",
+"Cameras and camcorders","Digital Cameras","Q4","Oct","Forecast",
+"Cameras and camcorders","Digital Cameras","Q4","Oct","Actuals",
+"Cameras and camcorders","Digital Cameras","Q4","Nov","Forecast",
+"Cameras and camcorders","Digital Cameras","Q4","Nov","Actuals",
+"Cameras and camcorders","Digital Cameras","Q4","Dec","Forecast",
+"Cameras and camcorders","Digital Cameras","Q4","Dec","Actuals",
+"Cameras and camcorders","Digital SLR Cameras","Q1","Jan","Forecast",
+"Cameras and camcorders","Digital SLR Cameras","Q1","Jan","Actuals",
+"Cameras and camcorders","Digital SLR Cameras","Q1","Feb","Forecast",
+"Cameras and camcorders","Digital SLR Cameras","Q1","Feb","Actuals",
+"Cameras and camcorders","Digital SLR Cameras","Q1","Mar","Forecast",
+"Cameras and camcorders","Digital SLR Cameras","Q1","Mar","Actuals",
+"Cameras and camcorders","Digital SLR Cameras","Q2","Apr","Forecast",
+"Cameras and camcorders","Digital SLR Cameras","Q2","Apr","Actuals",
+"Cameras and camcorders","Digital SLR Cameras","Q2","May","Forecast",
+"Cameras and camcorders","Digital SLR Cameras","Q2","May","Actuals",
+"Cameras and camcorders","Digital SLR Cameras","Q2","Jun","Forecast",
+"Cameras and camcorders","Digital SLR Cameras","Q2","Jun","Actuals",
+"Cameras and camcorders","Digital SLR Cameras","Q3","Jul","Forecast",
+"Cameras and camcorders","Digital SLR Cameras","Q3","Jul","Actuals",
+"Cameras and camcorders","Digital SLR Cameras","Q3","Aug","Forecast",
+"Cameras and camcorders","Digital SLR Cameras","Q3","Aug","Actuals",
+"Cameras and camcorders","Digital SLR Cameras","Q3","Sep","Forecast",
+"Cameras and camcorders","Digital SLR Cameras","Q3","Sep","Actuals",
+"Cameras and camcorders","Digital SLR Cameras","Q4","Oct","Forecast",
+"Cameras and camcorders","Digital SLR Cameras","Q4","Oct","Actuals",
+"Cameras and camcorders","Digital SLR Cameras","Q4","Nov","Forecast",
+"Cameras and camcorders","Digital SLR Cameras","Q4","Nov","Actuals",
+"Cameras and camcorders","Digital SLR Cameras","Q4","Dec","Forecast",
+"Cameras and camcorders","Digital SLR Cameras","Q4","Dec","Actuals",
+"Cell phones","Cell phones Accessories","Q1","Jan","Forecast",
+"Cell phones","Cell phones Accessories","Q1","Jan","Actuals",
+"Cell phones","Cell phones Accessories","Q1","Feb","Forecast",
+"Cell phones","Cell phones Accessories","Q1","Feb","Actuals",
+"Cell phones","Cell phones Accessories","Q1","Mar","Forecast",
+"Cell phones","Cell phones Accessories","Q1","Mar","Actuals",
+"Cell phones","Cell phones Accessories","Q2","Apr","Forecast",
+"Cell phones","Cell phones Accessories","Q2","Apr","Actuals",
+"Cell phones","Cell phones Accessories","Q2","May","Forecast",
+"Cell phones","Cell phones Accessories","Q2","May","Actuals",
+"Cell phones","Cell phones Accessories","Q2","Jun","Forecast",
+"Cell phones","Cell phones Accessories","Q2","Jun","Actuals",
+"Cell phones","Cell phones Accessories","Q3","Jul","Forecast",
+"Cell phones","Cell phones Accessories","Q3","Jul","Actuals",
+"Cell phones","Cell phones Accessories","Q3","Aug","Forecast",
+"Cell phones","Cell phones Accessories","Q3","Aug","Actuals",
+"Cell phones","Cell phones Accessories","Q3","Sep","Forecast",
+"Cell phones","Cell phones Accessories","Q3","Sep","Actuals",
+"Cell phones","Cell phones Accessories","Q4","Oct","Forecast",
+"Cell phones","Cell phones Accessories","Q4","Oct","Actuals",
+"Cell phones","Cell phones Accessories","Q4","Nov","Forecast",
+"Cell phones","Cell phones Accessories","Q4","Nov","Actuals",
+"Cell phones","Cell phones Accessories","Q4","Dec","Forecast",
+"Cell phones","Cell phones Accessories","Q4","Dec","Actuals",
+"Cell phones","Home & Office Phones","Q1","Jan","Forecast",
+"Cell phones","Home & Office Phones","Q1","Jan","Actuals",
+"Cell phones","Home & Office Phones","Q1","Feb","Forecast",
+"Cell phones","Home & Office Phones","Q1","Feb","Actuals",
+"Cell phones","Home & Office Phones","Q1","Mar","Forecast",
+"Cell phones","Home & Office Phones","Q1","Mar","Actuals",
+"Cell phones","Home & Office Phones","Q2","Apr","Forecast",
+"Cell phones","Home & Office Phones","Q2","Apr","Actuals",
+"Cell phones","Home & Office Phones","Q2","May","Forecast",
+"Cell phones","Home & Office Phones","Q2","May","Actuals",
+"Cell phones","Home & Office Phones","Q2","Jun","Forecast",
+"Cell phones","Home & Office Phones","Q2","Jun","Actuals",
+"Cell phones","Home & Office Phones","Q3","Jul","Forecast",
+"Cell phones","Home & Office Phones","Q3","Jul","Actuals",
+"Cell phones","Home & Office Phones","Q3","Aug","Forecast",
+"Cell phones","Home & Office Phones","Q3","Aug","Actuals",
+"Cell phones","Home & Office Phones","Q3","Sep","Forecast",
+"Cell phones","Home & Office Phones","Q3","Sep","Actuals",
+"Cell phones","Home & Office Phones","Q4","Oct","Forecast",
+"Cell phones","Home & Office Phones","Q4","Oct","Actuals",
+"Cell phones","Home & Office Phones","Q4","Nov","Forecast",
+"Cell phones","Home & Office Phones","Q4","Nov","Actuals",
+"Cell phones","Home & Office Phones","Q4","Dec","Forecast",
+"Cell phones","Home & Office Phones","Q4","Dec","Actuals",
+"Cell phones","Smart phones & PDAs","Q1","Jan","Forecast","46856.25"
+"Cell phones","Smart phones & PDAs","Q1","Jan","Actuals","44625"
+"Cell phones","Smart phones & PDAs","Q1","Feb","Forecast","45568.950000000004"
+"Cell phones","Smart phones & PDAs","Q1","Feb","Actuals","43399"
+"Cell phones","Smart phones & PDAs","Q1","Mar","Forecast","50372.700000000004"
+"Cell phones","Smart phones & PDAs","Q1","Mar","Actuals","47974"
+"Cell phones","Smart phones & PDAs","Q2","Apr","Forecast","45032.4"
+"Cell phones","Smart phones & PDAs","Q2","Apr","Actuals","42888"
+"Cell phones","Smart phones & PDAs","Q2","May","Forecast","37414.65"
+"Cell phones","Smart phones & PDAs","Q2","May","Actuals","35633"
+"Cell phones","Smart phones & PDAs","Q2","Jun","Forecast","34589.1"
+"Cell phones","Smart phones & PDAs","Q2","Jun","Actuals",
+"Cell phones","Smart phones & PDAs","Q3","Jul","Forecast","49498.05"
+"Cell phones","Smart phones & PDAs","Q3","Jul","Actuals",
+"Cell phones","Smart phones & PDAs","Q3","Aug","Forecast",
+"Cell phones","Smart phones & PDAs","Q3","Aug","Actuals",
+"Cell phones","Smart phones & PDAs","Q3","Sep","Forecast",
+"Cell phones","Smart phones & PDAs","Q3","Sep","Actuals",
+"Cell phones","Smart phones & PDAs","Q4","Oct","Forecast",
+"Cell phones","Smart phones & PDAs","Q4","Oct","Actuals",
+"Cell phones","Smart phones & PDAs","Q4","Nov","Forecast",
+"Cell phones","Smart phones & PDAs","Q4","Nov","Actuals",
+"Cell phones","Smart phones & PDAs","Q4","Dec","Forecast",
+"Cell phones","Smart phones & PDAs","Q4","Dec","Actuals",
+"Cell phones","Touch Screen Phones","Q1","Jan","Forecast","33604.200000000004"
+"Cell phones","Touch Screen Phones","Q1","Jan","Actuals","32004"
+"Cell phones","Touch Screen Phones","Q1","Feb","Forecast","16263.45"
+"Cell phones","Touch Screen Phones","Q1","Feb","Actuals","15489"
+"Cell phones","Touch Screen Phones","Q1","Mar","Forecast","26095.65"
+"Cell phones","Touch Screen Phones","Q1","Mar","Actuals","24853"
+"Cell phones","Touch Screen Phones","Q2","Apr","Forecast","15779.400000000001"
+"Cell phones","Touch Screen Phones","Q2","Apr","Actuals","15028"
+"Cell phones","Touch Screen Phones","Q2","May","Forecast","25284"
+"Cell phones","Touch Screen Phones","Q2","May","Actuals","24080"
+"Cell phones","Touch Screen Phones","Q2","Jun","Forecast","20696.55"
+"Cell phones","Touch Screen Phones","Q2","Jun","Actuals",
+"Cell phones","Touch Screen Phones","Q3","Jul","Forecast","29497.65"
+"Cell phones","Touch Screen Phones","Q3","Jul","Actuals",
+"Cell phones","Touch Screen Phones","Q3","Aug","Forecast",
+"Cell phones","Touch Screen Phones","Q3","Aug","Actuals",
+"Cell phones","Touch Screen Phones","Q3","Sep","Forecast",
+"Cell phones","Touch Screen Phones","Q3","Sep","Actuals",
+"Cell phones","Touch Screen Phones","Q4","Oct","Forecast",
+"Cell phones","Touch Screen Phones","Q4","Oct","Actuals",
+"Cell phones","Touch Screen Phones","Q4","Nov","Forecast",
+"Cell phones","Touch Screen Phones","Q4","Nov","Actuals",
+"Cell phones","Touch Screen Phones","Q4","Dec","Forecast",
+"Cell phones","Touch Screen Phones","Q4","Dec","Actuals",
+"Computers","Computers Accessories","Q1","Jan","Forecast",
+"Computers","Computers Accessories","Q1","Jan","Actuals",
+"Computers","Computers Accessories","Q1","Feb","Forecast",
+"Computers","Computers Accessories","Q1","Feb","Actuals",
+"Computers","Computers Accessories","Q1","Mar","Forecast",
+"Computers","Computers Accessories","Q1","Mar","Actuals",
+"Computers","Computers Accessories","Q2","Apr","Forecast",
+"Computers","Computers Accessories","Q2","Apr","Actuals",
+"Computers","Computers Accessories","Q2","May","Forecast",
+"Computers","Computers Accessories","Q2","May","Actuals",
+"Computers","Computers Accessories","Q2","Jun","Forecast",
+"Computers","Computers Accessories","Q2","Jun","Actuals",
+"Computers","Computers Accessories","Q3","Jul","Forecast",
+"Computers","Computers Accessories","Q3","Jul","Actuals",
+"Computers","Computers Accessories","Q3","Aug","Forecast",
+"Computers","Computers Accessories","Q3","Aug","Actuals",
+"Computers","Computers Accessories","Q3","Sep","Forecast",
+"Computers","Computers Accessories","Q3","Sep","Actuals",
+"Computers","Computers Accessories","Q4","Oct","Forecast",
+"Computers","Computers Accessories","Q4","Oct","Actuals",
+"Computers","Computers Accessories","Q4","Nov","Forecast",
+"Computers","Computers Accessories","Q4","Nov","Actuals",
+"Computers","Computers Accessories","Q4","Dec","Forecast",
+"Computers","Computers Accessories","Q4","Dec","Actuals",
+"Computers","Desktops","Q1","Jan","Forecast","34926.36"
+"Computers","Desktops","Q1","Jan","Actuals","166316"
+"Computers","Desktops","Q1","Feb","Forecast","25070.85"
+"Computers","Desktops","Q1","Feb","Actuals","119385"
+"Computers","Desktops","Q1","Mar","Forecast","19709.969999999998"
+"Computers","Desktops","Q1","Mar","Actuals","93857"
+"Computers","Desktops","Q2","Apr","Forecast","17304.42"
+"Computers","Desktops","Q2","Apr","Actuals","82402"
+"Computers","Desktops","Q2","May","Forecast","12483.869999999999"
+"Computers","Desktops","Q2","May","Actuals","59447"
+"Computers","Desktops","Q2","Jun","Forecast","18957.96"
+"Computers","Desktops","Q2","Jun","Actuals",
+"Computers","Desktops","Q3","Jul","Forecast","21507.36"
+"Computers","Desktops","Q3","Jul","Actuals",
+"Computers","Desktops","Q3","Aug","Forecast",
+"Computers","Desktops","Q3","Aug","Actuals",
+"Computers","Desktops","Q3","Sep","Forecast",
+"Computers","Desktops","Q3","Sep","Actuals",
+"Computers","Desktops","Q4","Oct","Forecast",
+"Computers","Desktops","Q4","Oct","Actuals",
+"Computers","Desktops","Q4","Nov","Forecast",
+"Computers","Desktops","Q4","Nov","Actuals",
+"Computers","Desktops","Q4","Dec","Forecast",
+"Computers","Desktops","Q4","Dec","Actuals",
+"Computers","Laptops","Q1","Jan","Forecast","191227.84"
+"Computers","Laptops","Q1","Jan","Actuals","154216"
+"Computers","Laptops","Q1","Feb","Forecast","220064.04"
+"Computers","Laptops","Q1","Feb","Actuals","177471"
+"Computers","Laptops","Q1","Mar","Forecast","138818"
+"Computers","Laptops","Q1","Mar","Actuals","111950"
+"Computers","Laptops","Q2","Apr","Forecast","129324.56"
+"Computers","Laptops","Q2","Apr","Actuals","104294"
+"Computers","Laptops","Q2","May","Forecast","135915.16"
+"Computers","Laptops","Q2","May","Actuals","109609"
+"Computers","Laptops","Q2","Jun","Forecast","112505.2"
+"Computers","Laptops","Q2","Jun","Actuals",
+"Computers","Laptops","Q3","Jul","Forecast","185728.44"
+"Computers","Laptops","Q3","Jul","Actuals",
+"Computers","Laptops","Q3","Aug","Forecast",
+"Computers","Laptops","Q3","Aug","Actuals",
+"Computers","Laptops","Q3","Sep","Forecast",
+"Computers","Laptops","Q3","Sep","Actuals",
+"Computers","Laptops","Q4","Oct","Forecast",
+"Computers","Laptops","Q4","Oct","Actuals",
+"Computers","Laptops","Q4","Nov","Forecast",
+"Computers","Laptops","Q4","Nov","Actuals",
+"Computers","Laptops","Q4","Dec","Forecast",
+"Computers","Laptops","Q4","Dec","Actuals",
+"Computers","Monitors","Q1","Jan","Forecast","19880.64"
+"Computers","Monitors","Q1","Jan","Actuals","165672"
+"Computers","Monitors","Q1","Feb","Forecast","13028.16"
+"Computers","Monitors","Q1","Feb","Actuals","108568"
+"Computers","Monitors","Q1","Mar","Forecast","8721.96"
+"Computers","Monitors","Q1","Mar","Actuals","72683"
+"Computers","Monitors","Q2","Apr","Forecast","10767.96"
+"Computers","Monitors","Q2","Apr","Actuals","89733"
+"Computers","Monitors","Q2","May","Forecast","6985.08"
+"Computers","Monitors","Q2","May","Actuals","58209"
+"Computers","Monitors","Q2","Jun","Forecast","6369.24"
+"Computers","Monitors","Q2","Jun","Actuals",
+"Computers","Monitors","Q3","Jul","Forecast","10224.96"
+"Computers","Monitors","Q3","Jul","Actuals",
+"Computers","Monitors","Q3","Aug","Forecast",
+"Computers","Monitors","Q3","Aug","Actuals",
+"Computers","Monitors","Q3","Sep","Forecast",
+"Computers","Monitors","Q3","Sep","Actuals",
+"Computers","Monitors","Q4","Oct","Forecast",
+"Computers","Monitors","Q4","Oct","Actuals",
+"Computers","Monitors","Q4","Nov","Forecast",
+"Computers","Monitors","Q4","Nov","Actuals",
+"Computers","Monitors","Q4","Dec","Forecast",
+"Computers","Monitors","Q4","Dec","Actuals",
+"Computers","Printers, Scanners & Fax","Q1","Jan","Forecast",
+"Computers","Printers, Scanners & Fax","Q1","Jan","Actuals",
+"Computers","Printers, Scanners & Fax","Q1","Feb","Forecast",
+"Computers","Printers, Scanners & Fax","Q1","Feb","Actuals",
+"Computers","Printers, Scanners & Fax","Q1","Mar","Forecast",
+"Computers","Printers, Scanners & Fax","Q1","Mar","Actuals",
+"Computers","Printers, Scanners & Fax","Q2","Apr","Forecast",
+"Computers","Printers, Scanners & Fax","Q2","Apr","Actuals",
+"Computers","Printers, Scanners & Fax","Q2","May","Forecast",
+"Computers","Printers, Scanners & Fax","Q2","May","Actuals",
+"Computers","Printers, Scanners & Fax","Q2","Jun","Forecast",
+"Computers","Printers, Scanners & Fax","Q2","Jun","Actuals",
+"Computers","Printers, Scanners & Fax","Q3","Jul","Forecast",
+"Computers","Printers, Scanners & Fax","Q3","Jul","Actuals",
+"Computers","Printers, Scanners & Fax","Q3","Aug","Forecast",
+"Computers","Printers, Scanners & Fax","Q3","Aug","Actuals",
+"Computers","Printers, Scanners & Fax","Q3","Sep","Forecast",
+"Computers","Printers, Scanners & Fax","Q3","Sep","Actuals",
+"Computers","Printers, Scanners & Fax","Q4","Oct","Forecast",
+"Computers","Printers, Scanners & Fax","Q4","Oct","Actuals",
+"Computers","Printers, Scanners & Fax","Q4","Nov","Forecast",
+"Computers","Printers, Scanners & Fax","Q4","Nov","Actuals",
+"Computers","Printers, Scanners & Fax","Q4","Dec","Forecast",
+"Computers","Printers, Scanners & Fax","Q4","Dec","Actuals",
+"Computers","Projectors & Screens","Q1","Jan","Forecast","234201.87"
+"Computers","Projectors & Screens","Q1","Jan","Actuals","159321"
+"Computers","Projectors & Screens","Q1","Feb","Forecast","146681.01"
+"Computers","Projectors & Screens","Q1","Feb","Actuals","99783"
+"Computers","Projectors & Screens","Q1","Mar","Forecast","121566.06"
+"Computers","Projectors & Screens","Q1","Mar","Actuals","82698"
+"Computers","Projectors & Screens","Q2","Apr","Forecast","106510.31999999999"
+"Computers","Projectors & Screens","Q2","Apr","Actuals","72456"
+"Computers","Projectors & Screens","Q2","May","Forecast","139417.74"
+"Computers","Projectors & Screens","Q2","May","Actuals","94842"
+"Computers","Projectors & Screens","Q2","Jun","Forecast","107342.34"
+"Computers","Projectors & Screens","Q2","Jun","Actuals",
+"Computers","Projectors & Screens","Q3","Jul","Forecast","180711.51"
+"Computers","Projectors & Screens","Q3","Jul","Actuals",
+"Computers","Projectors & Screens","Q3","Aug","Forecast",
+"Computers","Projectors & Screens","Q3","Aug","Actuals",
+"Computers","Projectors & Screens","Q3","Sep","Forecast",
+"Computers","Projectors & Screens","Q3","Sep","Actuals",
+"Computers","Projectors & Screens","Q4","Oct","Forecast",
+"Computers","Projectors & Screens","Q4","Oct","Actuals",
+"Computers","Projectors & Screens","Q4","Nov","Forecast",
+"Computers","Projectors & Screens","Q4","Nov","Actuals",
+"Computers","Projectors & Screens","Q4","Dec","Forecast",
+"Computers","Projectors & Screens","Q4","Dec","Actuals",
+"Games and Toys","Boxed Games","Q1","Jan","Forecast","333.90000000000003"
+"Games and Toys","Boxed Games","Q1","Jan","Actuals","318"
+"Games and Toys","Boxed Games","Q1","Feb","Forecast","413.70000000000005"
+"Games and Toys","Boxed Games","Q1","Feb","Actuals","394"
+"Games and Toys","Boxed Games","Q1","Mar","Forecast","152.25"
+"Games and Toys","Boxed Games","Q1","Mar","Actuals","145"
+"Games and Toys","Boxed Games","Q2","Apr","Forecast","274.05"
+"Games and Toys","Boxed Games","Q2","Apr","Actuals","261"
+"Games and Toys","Boxed Games","Q2","May","Forecast","340.2"
+"Games and Toys","Boxed Games","Q2","May","Actuals","324"
+"Games and Toys","Boxed Games","Q2","Jun","Forecast","278.25"
+"Games and Toys","Boxed Games","Q2","Jun","Actuals",
+"Games and Toys","Boxed Games","Q3","Jul","Forecast","159.6"
+"Games and Toys","Boxed Games","Q3","Jul","Actuals",
+"Games and Toys","Boxed Games","Q3","Aug","Forecast",
+"Games and Toys","Boxed Games","Q3","Aug","Actuals",
+"Games and Toys","Boxed Games","Q3","Sep","Forecast",
+"Games and Toys","Boxed Games","Q3","Sep","Actuals",
+"Games and Toys","Boxed Games","Q4","Oct","Forecast",
+"Games and Toys","Boxed Games","Q4","Oct","Actuals",
+"Games and Toys","Boxed Games","Q4","Nov","Forecast",
+"Games and Toys","Boxed Games","Q4","Nov","Actuals",
+"Games and Toys","Boxed Games","Q4","Dec","Forecast",
+"Games and Toys","Boxed Games","Q4","Dec","Actuals",
+"Games and Toys","Download Games","Q1","Jan","Forecast","13486.2"
+"Games and Toys","Download Games","Q1","Jan","Actuals","12844"
+"Games and Toys","Download Games","Q1","Feb","Forecast","7462.35"
+"Games and Toys","Download Games","Q1","Feb","Actuals","7107"
+"Games and Toys","Download Games","Q1","Mar","Forecast","10566.15"
+"Games and Toys","Download Games","Q1","Mar","Actuals","10063"
+"Games and Toys","Download Games","Q2","Apr","Forecast","8007.3"
+"Games and Toys","Download Games","Q2","Apr","Actuals","7626"
+"Games and Toys","Download Games","Q2","May","Forecast","6823.950000000001"
+"Games and Toys","Download Games","Q2","May","Actuals","6499"
+"Games and Toys","Download Games","Q2","Jun","Forecast","8287.65"
+"Games and Toys","Download Games","Q2","Jun","Actuals",
+"Games and Toys","Download Games","Q3","Jul","Forecast","12288.15"
+"Games and Toys","Download Games","Q3","Jul","Actuals",
+"Games and Toys","Download Games","Q3","Aug","Forecast",
+"Games and Toys","Download Games","Q3","Aug","Actuals",
+"Games and Toys","Download Games","Q3","Sep","Forecast",
+"Games and Toys","Download Games","Q3","Sep","Actuals",
+"Games and Toys","Download Games","Q4","Oct","Forecast",
+"Games and Toys","Download Games","Q4","Oct","Actuals",
+"Games and Toys","Download Games","Q4","Nov","Forecast",
+"Games and Toys","Download Games","Q4","Nov","Actuals",
+"Games and Toys","Download Games","Q4","Dec","Forecast",
+"Games and Toys","Download Games","Q4","Dec","Actuals",
+"Home Appliances","Air Conditioners","Q1","Jan","Forecast",
+"Home Appliances","Air Conditioners","Q1","Jan","Actuals",
+"Home Appliances","Air Conditioners","Q1","Feb","Forecast",
+"Home Appliances","Air Conditioners","Q1","Feb","Actuals",
+"Home Appliances","Air Conditioners","Q1","Mar","Forecast",
+"Home Appliances","Air Conditioners","Q1","Mar","Actuals",
+"Home Appliances","Air Conditioners","Q2","Apr","Forecast",
+"Home Appliances","Air Conditioners","Q2","Apr","Actuals",
+"Home Appliances","Air Conditioners","Q2","May","Forecast",
+"Home Appliances","Air Conditioners","Q2","May","Actuals",
+"Home Appliances","Air Conditioners","Q2","Jun","Forecast",
+"Home Appliances","Air Conditioners","Q2","Jun","Actuals",
+"Home Appliances","Air Conditioners","Q3","Jul","Forecast",
+"Home Appliances","Air Conditioners","Q3","Jul","Actuals",
+"Home Appliances","Air Conditioners","Q3","Aug","Forecast",
+"Home Appliances","Air Conditioners","Q3","Aug","Actuals",
+"Home Appliances","Air Conditioners","Q3","Sep","Forecast",
+"Home Appliances","Air Conditioners","Q3","Sep","Actuals",
+"Home Appliances","Air Conditioners","Q4","Oct","Forecast",
+"Home Appliances","Air Conditioners","Q4","Oct","Actuals",
+"Home Appliances","Air Conditioners","Q4","Nov","Forecast",
+"Home Appliances","Air Conditioners","Q4","Nov","Actuals",
+"Home Appliances","Air Conditioners","Q4","Dec","Forecast",
+"Home Appliances","Air Conditioners","Q4","Dec","Actuals",
+"Home Appliances","Coffee Machines","Q1","Jan","Forecast","14964.07"
+"Home Appliances","Coffee Machines","Q1","Jan","Actuals","18029"
+"Home Appliances","Coffee Machines","Q1","Feb","Forecast","22826.66"
+"Home Appliances","Coffee Machines","Q1","Feb","Actuals","27502"
+"Home Appliances","Coffee Machines","Q1","Mar","Forecast","9555.789999999999"
+"Home Appliances","Coffee Machines","Q1","Mar","Actuals","11513"
+"Home Appliances","Coffee Machines","Q2","Apr","Forecast","1595.26"
+"Home Appliances","Coffee Machines","Q2","Apr","Actuals","1922"
+"Home Appliances","Coffee Machines","Q2","May","Forecast","6835.88"
+"Home Appliances","Coffee Machines","Q2","May","Actuals","8236"
+"Home Appliances","Coffee Machines","Q2","Jun","Forecast","10492.859999999999"
+"Home Appliances","Coffee Machines","Q2","Jun","Actuals",
+"Home Appliances","Coffee Machines","Q3","Jul","Forecast","12026.699999999999"
+"Home Appliances","Coffee Machines","Q3","Jul","Actuals",
+"Home Appliances","Coffee Machines","Q3","Aug","Forecast",
+"Home Appliances","Coffee Machines","Q3","Aug","Actuals",
+"Home Appliances","Coffee Machines","Q3","Sep","Forecast",
+"Home Appliances","Coffee Machines","Q3","Sep","Actuals",
+"Home Appliances","Coffee Machines","Q4","Oct","Forecast",
+"Home Appliances","Coffee Machines","Q4","Oct","Actuals",
+"Home Appliances","Coffee Machines","Q4","Nov","Forecast",
+"Home Appliances","Coffee Machines","Q4","Nov","Actuals",
+"Home Appliances","Coffee Machines","Q4","Dec","Forecast",
+"Home Appliances","Coffee Machines","Q4","Dec","Actuals",
+"Home Appliances","Fans","Q1","Jan","Forecast",
+"Home Appliances","Fans","Q1","Jan","Actuals",
+"Home Appliances","Fans","Q1","Feb","Forecast",
+"Home Appliances","Fans","Q1","Feb","Actuals",
+"Home Appliances","Fans","Q1","Mar","Forecast",
+"Home Appliances","Fans","Q1","Mar","Actuals",
+"Home Appliances","Fans","Q2","Apr","Forecast",
+"Home Appliances","Fans","Q2","Apr","Actuals",
+"Home Appliances","Fans","Q2","May","Forecast",
+"Home Appliances","Fans","Q2","May","Actuals",
+"Home Appliances","Fans","Q2","Jun","Forecast",
+"Home Appliances","Fans","Q2","Jun","Actuals",
+"Home Appliances","Fans","Q3","Jul","Forecast",
+"Home Appliances","Fans","Q3","Jul","Actuals",
+"Home Appliances","Fans","Q3","Aug","Forecast",
+"Home Appliances","Fans","Q3","Aug","Actuals",
+"Home Appliances","Fans","Q3","Sep","Forecast",
+"Home Appliances","Fans","Q3","Sep","Actuals",
+"Home Appliances","Fans","Q4","Oct","Forecast",
+"Home Appliances","Fans","Q4","Oct","Actuals",
+"Home Appliances","Fans","Q4","Nov","Forecast",
+"Home Appliances","Fans","Q4","Nov","Actuals",
+"Home Appliances","Fans","Q4","Dec","Forecast",
+"Home Appliances","Fans","Q4","Dec","Actuals",
+"Home Appliances","Lamps","Q1","Jan","Forecast","46610.36"
+"Home Appliances","Lamps","Q1","Jan","Actuals","37589"
+"Home Appliances","Lamps","Q1","Feb","Forecast","21337.92"
+"Home Appliances","Lamps","Q1","Feb","Actuals","17208"
+"Home Appliances","Lamps","Q1","Mar","Forecast","44044.8"
+"Home Appliances","Lamps","Q1","Mar","Actuals","35520"
+"Home Appliances","Lamps","Q2","Apr","Forecast","28920.52"
+"Home Appliances","Lamps","Q2","Apr","Actuals","23323"
+"Home Appliances","Lamps","Q2","May","Forecast","24752.88"
+"Home Appliances","Lamps","Q2","May","Actuals","19962"
+"Home Appliances","Lamps","Q2","Jun","Forecast","22935.04"
+"Home Appliances","Lamps","Q2","Jun","Actuals",
+"Home Appliances","Lamps","Q3","Jul","Forecast","49947.2"
+"Home Appliances","Lamps","Q3","Jul","Actuals",
+"Home Appliances","Lamps","Q3","Aug","Forecast",
+"Home Appliances","Lamps","Q3","Aug","Actuals",
+"Home Appliances","Lamps","Q3","Sep","Forecast",
+"Home Appliances","Lamps","Q3","Sep","Actuals",
+"Home Appliances","Lamps","Q4","Oct","Forecast",
+"Home Appliances","Lamps","Q4","Oct","Actuals",
+"Home Appliances","Lamps","Q4","Nov","Forecast",
+"Home Appliances","Lamps","Q4","Nov","Actuals",
+"Home Appliances","Lamps","Q4","Dec","Forecast",
+"Home Appliances","Lamps","Q4","Dec","Actuals",
+"Home Appliances","Microwaves","Q1","Jan","Forecast",
+"Home Appliances","Microwaves","Q1","Jan","Actuals",
+"Home Appliances","Microwaves","Q1","Feb","Forecast",
+"Home Appliances","Microwaves","Q1","Feb","Actuals",
+"Home Appliances","Microwaves","Q1","Mar","Forecast",
+"Home Appliances","Microwaves","Q1","Mar","Actuals",
+"Home Appliances","Microwaves","Q2","Apr","Forecast",
+"Home Appliances","Microwaves","Q2","Apr","Actuals",
+"Home Appliances","Microwaves","Q2","May","Forecast",
+"Home Appliances","Microwaves","Q2","May","Actuals",
+"Home Appliances","Microwaves","Q2","Jun","Forecast",
+"Home Appliances","Microwaves","Q2","Jun","Actuals",
+"Home Appliances","Microwaves","Q3","Jul","Forecast",
+"Home Appliances","Microwaves","Q3","Jul","Actuals",
+"Home Appliances","Microwaves","Q3","Aug","Forecast",
+"Home Appliances","Microwaves","Q3","Aug","Actuals",
+"Home Appliances","Microwaves","Q3","Sep","Forecast",
+"Home Appliances","Microwaves","Q3","Sep","Actuals",
+"Home Appliances","Microwaves","Q4","Oct","Forecast",
+"Home Appliances","Microwaves","Q4","Oct","Actuals",
+"Home Appliances","Microwaves","Q4","Nov","Forecast",
+"Home Appliances","Microwaves","Q4","Nov","Actuals",
+"Home Appliances","Microwaves","Q4","Dec","Forecast",
+"Home Appliances","Microwaves","Q4","Dec","Actuals",
+"Home Appliances","Refrigerators","Q1","Jan","Forecast",
+"Home Appliances","Refrigerators","Q1","Jan","Actuals",
+"Home Appliances","Refrigerators","Q1","Feb","Forecast",
+"Home Appliances","Refrigerators","Q1","Feb","Actuals",
+"Home Appliances","Refrigerators","Q1","Mar","Forecast",
+"Home Appliances","Refrigerators","Q1","Mar","Actuals",
+"Home Appliances","Refrigerators","Q2","Apr","Forecast",
+"Home Appliances","Refrigerators","Q2","Apr","Actuals",
+"Home Appliances","Refrigerators","Q2","May","Forecast",
+"Home Appliances","Refrigerators","Q2","May","Actuals",
+"Home Appliances","Refrigerators","Q2","Jun","Forecast",
+"Home Appliances","Refrigerators","Q2","Jun","Actuals",
+"Home Appliances","Refrigerators","Q3","Jul","Forecast",
+"Home Appliances","Refrigerators","Q3","Jul","Actuals",
+"Home Appliances","Refrigerators","Q3","Aug","Forecast",
+"Home Appliances","Refrigerators","Q3","Aug","Actuals",
+"Home Appliances","Refrigerators","Q3","Sep","Forecast",
+"Home Appliances","Refrigerators","Q3","Sep","Actuals",
+"Home Appliances","Refrigerators","Q4","Oct","Forecast",
+"Home Appliances","Refrigerators","Q4","Oct","Actuals",
+"Home Appliances","Refrigerators","Q4","Nov","Forecast",
+"Home Appliances","Refrigerators","Q4","Nov","Actuals",
+"Home Appliances","Refrigerators","Q4","Dec","Forecast",
+"Home Appliances","Refrigerators","Q4","Dec","Actuals",
+"Home Appliances","Washers & Dryers","Q1","Jan","Forecast","100916.51999999999"
+"Home Appliances","Washers & Dryers","Q1","Jan","Actuals","71572"
+"Home Appliances","Washers & Dryers","Q1","Feb","Forecast","86999.81999999999"
+"Home Appliances","Washers & Dryers","Q1","Feb","Actuals","61702"
+"Home Appliances","Washers & Dryers","Q1","Mar","Forecast","62085.119999999995"
+"Home Appliances","Washers & Dryers","Q1","Mar","Actuals","44032"
+"Home Appliances","Washers & Dryers","Q2","Apr","Forecast","38954.07"
+"Home Appliances","Washers & Dryers","Q2","Apr","Actuals","27627"
+"Home Appliances","Washers & Dryers","Q2","May","Forecast","91038.06"
+"Home Appliances","Washers & Dryers","Q2","May","Actuals","64566"
+"Home Appliances","Washers & Dryers","Q2","Jun","Forecast","58038.42"
+"Home Appliances","Washers & Dryers","Q2","Jun","Actuals",
+"Home Appliances","Washers & Dryers","Q3","Jul","Forecast","103654.73999999999"
+"Home Appliances","Washers & Dryers","Q3","Jul","Actuals",
+"Home Appliances","Washers & Dryers","Q3","Aug","Forecast",
+"Home Appliances","Washers & Dryers","Q3","Aug","Actuals",
+"Home Appliances","Washers & Dryers","Q3","Sep","Forecast",
+"Home Appliances","Washers & Dryers","Q3","Sep","Actuals",
+"Home Appliances","Washers & Dryers","Q4","Oct","Forecast",
+"Home Appliances","Washers & Dryers","Q4","Oct","Actuals",
+"Home Appliances","Washers & Dryers","Q4","Nov","Forecast",
+"Home Appliances","Washers & Dryers","Q4","Nov","Actuals",
+"Home Appliances","Washers & Dryers","Q4","Dec","Forecast",
+"Home Appliances","Washers & Dryers","Q4","Dec","Actuals",
+"Home Appliances","Water Heaters","Q1","Jan","Forecast",
+"Home Appliances","Water Heaters","Q1","Jan","Actuals",
+"Home Appliances","Water Heaters","Q1","Feb","Forecast",
+"Home Appliances","Water Heaters","Q1","Feb","Actuals",
+"Home Appliances","Water Heaters","Q1","Mar","Forecast",
+"Home Appliances","Water Heaters","Q1","Mar","Actuals",
+"Home Appliances","Water Heaters","Q2","Apr","Forecast",
+"Home Appliances","Water Heaters","Q2","Apr","Actuals",
+"Home Appliances","Water Heaters","Q2","May","Forecast",
+"Home Appliances","Water Heaters","Q2","May","Actuals",
+"Home Appliances","Water Heaters","Q2","Jun","Forecast",
+"Home Appliances","Water Heaters","Q2","Jun","Actuals",
+"Home Appliances","Water Heaters","Q3","Jul","Forecast",
+"Home Appliances","Water Heaters","Q3","Jul","Actuals",
+"Home Appliances","Water Heaters","Q3","Aug","Forecast",
+"Home Appliances","Water Heaters","Q3","Aug","Actuals",
+"Home Appliances","Water Heaters","Q3","Sep","Forecast",
+"Home Appliances","Water Heaters","Q3","Sep","Actuals",
+"Home Appliances","Water Heaters","Q4","Oct","Forecast",
+"Home Appliances","Water Heaters","Q4","Oct","Actuals",
+"Home Appliances","Water Heaters","Q4","Nov","Forecast",
+"Home Appliances","Water Heaters","Q4","Nov","Actuals",
+"Home Appliances","Water Heaters","Q4","Dec","Forecast",
+"Home Appliances","Water Heaters","Q4","Dec","Actuals",
+"Music, Movies and Audio Books","Movie DVD","Q1","Jan","Forecast",
+"Music, Movies and Audio Books","Movie DVD","Q1","Jan","Actuals",
+"Music, Movies and Audio Books","Movie DVD","Q1","Feb","Forecast",
+"Music, Movies and Audio Books","Movie DVD","Q1","Feb","Actuals",
+"Music, Movies and Audio Books","Movie DVD","Q1","Mar","Forecast",
+"Music, Movies and Audio Books","Movie DVD","Q1","Mar","Actuals",
+"Music, Movies and Audio Books","Movie DVD","Q2","Apr","Forecast",
+"Music, Movies and Audio Books","Movie DVD","Q2","Apr","Actuals",
+"Music, Movies and Audio Books","Movie DVD","Q2","May","Forecast",
+"Music, Movies and Audio Books","Movie DVD","Q2","May","Actuals",
+"Music, Movies and Audio Books","Movie DVD","Q2","Jun","Forecast",
+"Music, Movies and Audio Books","Movie DVD","Q2","Jun","Actuals",
+"Music, Movies and Audio Books","Movie DVD","Q3","Jul","Forecast",
+"Music, Movies and Audio Books","Movie DVD","Q3","Jul","Actuals",
+"Music, Movies and Audio Books","Movie DVD","Q3","Aug","Forecast",
+"Music, Movies and Audio Books","Movie DVD","Q3","Aug","Actuals",
+"Music, Movies and Audio Books","Movie DVD","Q3","Sep","Forecast",
+"Music, Movies and Audio Books","Movie DVD","Q3","Sep","Actuals",
+"Music, Movies and Audio Books","Movie DVD","Q4","Oct","Forecast",
+"Music, Movies and Audio Books","Movie DVD","Q4","Oct","Actuals",
+"Music, Movies and Audio Books","Movie DVD","Q4","Nov","Forecast",
+"Music, Movies and Audio Books","Movie DVD","Q4","Nov","Actuals",
+"Music, Movies and Audio Books","Movie DVD","Q4","Dec","Forecast",
+"Music, Movies and Audio Books","Movie DVD","Q4","Dec","Actuals",
+"TV and Video","Car Video","Q1","Jan","Forecast",
+"TV and Video","Car Video","Q1","Jan","Actuals",
+"TV and Video","Car Video","Q1","Feb","Forecast",
+"TV and Video","Car Video","Q1","Feb","Actuals",
+"TV and Video","Car Video","Q1","Mar","Forecast",
+"TV and Video","Car Video","Q1","Mar","Actuals",
+"TV and Video","Car Video","Q2","Apr","Forecast",
+"TV and Video","Car Video","Q2","Apr","Actuals",
+"TV and Video","Car Video","Q2","May","Forecast",
+"TV and Video","Car Video","Q2","May","Actuals",
+"TV and Video","Car Video","Q2","Jun","Forecast",
+"TV and Video","Car Video","Q2","Jun","Actuals",
+"TV and Video","Car Video","Q3","Jul","Forecast",
+"TV and Video","Car Video","Q3","Jul","Actuals",
+"TV and Video","Car Video","Q3","Aug","Forecast",
+"TV and Video","Car Video","Q3","Aug","Actuals",
+"TV and Video","Car Video","Q3","Sep","Forecast",
+"TV and Video","Car Video","Q3","Sep","Actuals",
+"TV and Video","Car Video","Q4","Oct","Forecast",
+"TV and Video","Car Video","Q4","Oct","Actuals",
+"TV and Video","Car Video","Q4","Nov","Forecast",
+"TV and Video","Car Video","Q4","Nov","Actuals",
+"TV and Video","Car Video","Q4","Dec","Forecast",
+"TV and Video","Car Video","Q4","Dec","Actuals",
+"TV and Video","Home Theater System","Q1","Jan","Forecast",
+"TV and Video","Home Theater System","Q1","Jan","Actuals",
+"TV and Video","Home Theater System","Q1","Feb","Forecast",
+"TV and Video","Home Theater System","Q1","Feb","Actuals",
+"TV and Video","Home Theater System","Q1","Mar","Forecast",
+"TV and Video","Home Theater System","Q1","Mar","Actuals",
+"TV and Video","Home Theater System","Q2","Apr","Forecast",
+"TV and Video","Home Theater System","Q2","Apr","Actuals",
+"TV and Video","Home Theater System","Q2","May","Forecast",
+"TV and Video","Home Theater System","Q2","May","Actuals",
+"TV and Video","Home Theater System","Q2","Jun","Forecast",
+"TV and Video","Home Theater System","Q2","Jun","Actuals",
+"TV and Video","Home Theater System","Q3","Jul","Forecast",
+"TV and Video","Home Theater System","Q3","Jul","Actuals",
+"TV and Video","Home Theater System","Q3","Aug","Forecast",
+"TV and Video","Home Theater System","Q3","Aug","Actuals",
+"TV and Video","Home Theater System","Q3","Sep","Forecast",
+"TV and Video","Home Theater System","Q3","Sep","Actuals",
+"TV and Video","Home Theater System","Q4","Oct","Forecast",
+"TV and Video","Home Theater System","Q4","Oct","Actuals",
+"TV and Video","Home Theater System","Q4","Nov","Forecast",
+"TV and Video","Home Theater System","Q4","Nov","Actuals",
+"TV and Video","Home Theater System","Q4","Dec","Forecast",
+"TV and Video","Home Theater System","Q4","Dec","Actuals",
+"TV and Video","Televisions","Q1","Jan","Forecast","298380.60000000003"
+"TV and Video","Televisions","Q1","Jan","Actuals","284172"
+"TV and Video","Televisions","Q1","Feb","Forecast","188958"
+"TV and Video","Televisions","Q1","Feb","Actuals","179960"
+"TV and Video","Televisions","Q1","Mar","Forecast","150465"
+"TV and Video","Televisions","Q1","Mar","Actuals","143300"
+"TV and Video","Televisions","Q2","Apr","Forecast","136639.65"
+"TV and Video","Televisions","Q2","Apr","Actuals","130133"
+"TV and Video","Televisions","Q2","May","Forecast","97807.5"
+"TV and Video","Televisions","Q2","May","Actuals","93150"
+"TV and Video","Televisions","Q2","Jun","Forecast","158994.15"
+"TV and Video","Televisions","Q2","Jun","Actuals",
+"TV and Video","Televisions","Q3","Jul","Forecast","151202.1"
+"TV and Video","Televisions","Q3","Jul","Actuals",
+"TV and Video","Televisions","Q3","Aug","Forecast",
+"TV and Video","Televisions","Q3","Aug","Actuals",
+"TV and Video","Televisions","Q3","Sep","Forecast",
+"TV and Video","Televisions","Q3","Sep","Actuals",
+"TV and Video","Televisions","Q4","Oct","Forecast",
+"TV and Video","Televisions","Q4","Oct","Actuals",
+"TV and Video","Televisions","Q4","Nov","Forecast",
+"TV and Video","Televisions","Q4","Nov","Actuals",
+"TV and Video","Televisions","Q4","Dec","Forecast",
+"TV and Video","Televisions","Q4","Dec","Actuals",
+"TV and Video","VCD & DVD","Q1","Jan","Forecast",
+"TV and Video","VCD & DVD","Q1","Jan","Actuals",
+"TV and Video","VCD & DVD","Q1","Feb","Forecast",
+"TV and Video","VCD & DVD","Q1","Feb","Actuals",
+"TV and Video","VCD & DVD","Q1","Mar","Forecast",
+"TV and Video","VCD & DVD","Q1","Mar","Actuals",
+"TV and Video","VCD & DVD","Q2","Apr","Forecast",
+"TV and Video","VCD & DVD","Q2","Apr","Actuals",
+"TV and Video","VCD & DVD","Q2","May","Forecast",
+"TV and Video","VCD & DVD","Q2","May","Actuals",
+"TV and Video","VCD & DVD","Q2","Jun","Forecast",
+"TV and Video","VCD & DVD","Q2","Jun","Actuals",
+"TV and Video","VCD & DVD","Q3","Jul","Forecast",
+"TV and Video","VCD & DVD","Q3","Jul","Actuals",
+"TV and Video","VCD & DVD","Q3","Aug","Forecast",
+"TV and Video","VCD & DVD","Q3","Aug","Actuals",
+"TV and Video","VCD & DVD","Q3","Sep","Forecast",
+"TV and Video","VCD & DVD","Q3","Sep","Actuals",
+"TV and Video","VCD & DVD","Q4","Oct","Forecast",
+"TV and Video","VCD & DVD","Q4","Oct","Actuals",
+"TV and Video","VCD & DVD","Q4","Nov","Forecast",
+"TV and Video","VCD & DVD","Q4","Nov","Actuals",
+"TV and Video","VCD & DVD","Q4","Dec","Forecast",
+"TV and Video","VCD & DVD","Q4","Dec","Actuals",
