@@ -1,6 +1,6 @@
 {
   "name": "@lumel/matrix-web",
-  "version": "1.8.0-alpha.248",
+  "version": "1.8.0-alpha.249",
   "description": "",
   "main": "server.js",
   "private": true,
