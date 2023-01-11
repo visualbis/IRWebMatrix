@@ -57914,6 +57914,7 @@ input:checked + .slider:before {
   height: 25px;
   padding: 0 3px;
   border: 0.1px solid #e8e8e8;
+  margin-left: 15px;
 }
 .scenario-tabs-wrapper.dark {
   color: #f5f5f5;
@@ -57925,7 +57926,7 @@ input:checked + .slider:before {
 .scenario-tabs-wrapper .scenario-icon-wrapper {
   display: flex;
   width: 45px;
-  padding-left: 10px;
+  padding: 0 2px 0 10px;
   align-items: center;
   justify-content: center;
 }
@@ -57933,6 +57934,7 @@ input:checked + .slider:before {
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
 }
 .scenario-tabs-wrapper .all-scenarios-wrapper {
   overflow-x: auto;
@@ -57961,7 +57963,7 @@ input:checked + .slider:before {
   justify-content: center;
   margin-right: 2px;
   font-size: 15px;
-  padding: 0 3px;
+  padding: 0 3px 0 13px;
   cursor: pointer;
   border-left: 0.1px solid #e8e8e8;
   border-right: 0.1px solid #e8e8e8;
@@ -57973,34 +57975,16 @@ input:checked + .slider:before {
   white-space: nowrap;
   overflow: hidden;
 }
-.scenario-tabs-wrapper .active-scenario-tab {
+.scenario-tabs-wrapper .scenario-tab .save-btn:hover {
+  color: #0078d4;
+}
+.scenario-tabs-wrapper .active-scenario {
   background: #ffffff;
   border-bottom: 3px solid #0078d4;
 }
-.scenario-tabs-wrapper .active-scenario-tab.dark {
+.scenario-tabs-wrapper .active-scenario.dark {
   background-color: #585858;
   color: #f5f5f5;
-}
-.scenario-tab-option {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 25px;
-  font-size: 12px;
-  width: 100%;
-  padding: 2px;
-}
-.scenario-tab-option:hover {
-  background-color: #f5f5f5;
-}
-.scenario-tab-option:hover.dark {
-  background-color: #585858;
-}
-.scenario-tab-option.disabled {
-  color: #dddddd;
-}
-.scenario-tab-option input {
-  cursor: pointer;
 }
 .scenario-tab-options-wrapper {
   padding: 5px;
