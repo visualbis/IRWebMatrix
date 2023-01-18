@@ -10819,6 +10819,9 @@ Generated using nucleoapp.com
 .choice-cell.singleselect-cell .filterValue.wrapped {
   justify-content: flex-start !important;
 }
+.choice-cell.multiselect-cell .filterValue .multi-select-tooltip-wrapper {
+  display: flex;
+}
 .choice-cell.multiselect-cell .filterValue.wrapped {
   align-items: center;
 }
@@ -10826,8 +10829,7 @@ Generated using nucleoapp.com
   white-space: unset;
   padding: unset;
 }
-.choice-cell.multiselect-cell .filterValue .multi-select-tooltip-wrapper {
-  display: flex;
+.choice-cell.multiselect-cell .filterValue.wrapped .multi-select-tooltip-wrapper {
   flex-direction: column;
 }
 .choice-cell.status-cell.choice-cell.option {
@@ -20507,7 +20509,7 @@ g.bullet-fixed-axis .axis-line path {
 .dropdownOption-toolbar .sub-menu-icon-display {
   display: flex;
   align-items: center;
-  padding: 8px;
+  padding: 8px !important;
   font-size: 12px;
   line-height: 16px;
   min-width: 100px;
@@ -73574,9 +73576,37 @@ ql-snow {
   right: 15px;
   top: 5px;
   cursor: pointer;
-  width: 19px;
   height: 17px;
   z-index: 8;
+}
+.mosaic-container-actions .mosaic-item {
+  display: flex;
+}
+.mosaic-container-actions .mosaic-data-selection {
+  border-radius: 25px;
+  border: 1px solid #ccc;
+  background: #f5f5f5;
+  width: 100px;
+  height: 30px;
+  display: flex;
+  font-size: 12px;
+  font-family: 'Inforiver Sans';
+  align-items: center;
+  justify-content: center;
+}
+.mosaic-container-actions .mosaic-checkmark {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 3px;
+}
+.mosaic-container-actions .checkmark::after {
+  font-family: 'FabricMDL2Icons';
+  content: '\E8FB';
+  position: absolute;
+  color: #107c10;
+}
+.themeDark .mosaic-container-actions .mosaic-item .mosaic-data-selection {
+  color: #444444;
 }
 /* 5. LaunchTemplate */
 /* LaunchTemplate */
