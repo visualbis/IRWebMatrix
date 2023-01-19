@@ -99,7 +99,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
 }
 input:placeholder-shown {
   text-overflow: ellipsis;
@@ -13277,6 +13277,9 @@ g.bullet-fixed-axis .axis-line path {
 }
 .mb-10 {
   margin-bottom: 10px;
+}
+.mb-32 {
+  margin-bottom: 32px;
 }
 .ml-neg-7 {
   margin-left: -7px;
@@ -47427,7 +47430,7 @@ span.button:hover .ms-Icon {
   color: #000000;
 }
 .columnPresetTheme.singleSideHatched {
-  background: repeating-linear-gradient(45deg, #dddddd 0.2px, transparent 0.8px, transparent 3%);
+  background: repeating-linear-gradient(45deg, #dddddd 0.7%, #ffffff 1px, #ffffff 1%);
 }
 .columnPresetTheme.doubleSideHatched {
   background: repeating-linear-gradient(45deg, #dddddd 1px, transparent 2px, transparent 6px), repeating-linear-gradient(-45deg, #dddddd 0, #dddddd 0.4px, #ffffff 1px, #ffffff 5%);
@@ -47445,7 +47448,7 @@ span.button:hover .ms-Icon {
   background-color: #ffffff;
 }
 .PresetFillPattern.singleSideHatched {
-  background: repeating-linear-gradient(45deg, #dddddd 0.2px, transparent 0.8px, transparent 3%);
+  background: repeating-linear-gradient(45deg, #dddddd 0.8px, #ffffff 1px, #ffffff 1%);
 }
 .PresetFillPattern.doubleSideHatched {
   background: repeating-linear-gradient(45deg, #dddddd 1px, transparent 2px, transparent 6px), repeating-linear-gradient(-45deg, #dddddd 0, #dddddd 0.4px, #ffffff 1px, #ffffff 5%);
@@ -47681,7 +47684,7 @@ span.button:hover .ms-Icon {
 }
 .history-logs .bf-ui-form-input {
   height: 32px !important;
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif !important;
+  font-family: 'Inforiver Sans' !important;
   font-style: normal !important;
   font-weight: normal !important;
   font-size: 12px !important;
@@ -59946,6 +59949,7 @@ input:checked + .slider:before {
   font-size: 11px;
   width: 100%;
   justify-content: space-between;
+  font-family: 'Inforiver Sans';
 }
 .breadcrumb-container .breadcrumb-column-container {
   padding: 6px 0px;
