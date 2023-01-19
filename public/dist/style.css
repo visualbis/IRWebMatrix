@@ -846,6 +846,7 @@ span.icon-minus:before {
   font-weight: 600 !important;
   font-size: 11px !important;
   height: 27px !important;
+  font-family: 'inforiver Sans';
 }
 .btn_primary {
   background-color: #0078d4 !important;
@@ -11615,7 +11616,7 @@ ql-snow {
   justify-content: center;
 }
 .annotation-setting-modal .custom-select .item span {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'InfoRiver Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -11665,7 +11666,7 @@ ql-snow {
   height: 32px;
 }
 .annotation-setting-modal .input-group label {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'InfoRiver Sans';
   font-size: 12px;
   font-style: normal;
   font-weight: 600;
@@ -12394,6 +12395,7 @@ g.bullet-fixed-axis .axis-line path {
   font-weight: 350;
   font-size: 13px;
   z-index: 99;
+  font-family: 'Inforiver Sans';
 }
 .toast-container .link-text {
   color: #0078d4;
@@ -13296,6 +13298,9 @@ g.bullet-fixed-axis .axis-line path {
 }
 .mt-3 {
   margin-top: 3px;
+}
+.mt-4 {
+  margin-top: 4px;
 }
 .mt-2 {
   margin-top: 2px;
@@ -20288,6 +20293,7 @@ g.bullet-fixed-axis .axis-line path {
   color: #000000;
 }
 .bf-editor-colorpicker-wrapper {
+  font-family: 'Inforiver Sans' !important;
   margin-right: 6px;
 }
 .bf-editor-colorpicker-wrapper .icon:last-child {
@@ -20396,6 +20402,7 @@ g.bullet-fixed-axis .axis-line path {
   margin-bottom: 2px;
 }
 .bf-ui-colopicker-custom-picker-div {
+  font-family: 'Inforiver Sans';
   padding-right: 0;
 }
 .popup-appearance {
@@ -20984,7 +20991,7 @@ g.bullet-fixed-axis .axis-line path {
   text-overflow: initial;
 }
 .sidePanel {
-  font-family: 'Inforiver Sans';
+  font-family: 'Inforiver Sans' !important;
 }
 .sidePanel.darkToolbar .preset-action-container,
 .sidePanel.darkToolbar .preset-list-label {
@@ -21234,9 +21241,11 @@ g.bullet-fixed-axis .axis-line path {
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: 'Inforiver Sans';
 }
 .sidePanel.darkToolbar.column-sidebar-container .sidebar-footer .btn:last-child {
   margin-left: 10px;
+  font-family: 'Inforiver Sans';
 }
 .sidePanel.darkToolbar.column-sidebar-container .list {
   background-color: #585858;
@@ -21960,9 +21969,11 @@ g.bullet-fixed-axis .axis-line path {
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: 'Inforiver Sans';
 }
 .sidePanel.lightToolbar.column-sidebar-container .sidebar-footer .btn:last-child {
   margin-left: 10px;
+  font-family: 'Inforiver Sans';
 }
 .sidePanel.lightToolbar.column-sidebar-container .list {
   background-color: #ffffff;
@@ -22668,9 +22679,11 @@ g.bullet-fixed-axis .axis-line path {
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: 'Inforiver Sans';
 }
 .sidePanel.green_theme.column-sidebar-container .sidebar-footer .btn:last-child {
   margin-left: 10px;
+  font-family: 'Inforiver Sans';
 }
 .sidePanel.green_theme.column-sidebar-container .list {
   background-color: #585858;
@@ -23376,9 +23389,11 @@ g.bullet-fixed-axis .axis-line path {
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: 'Inforiver Sans';
 }
 .sidePanel.yellow_theme.column-sidebar-container .sidebar-footer .btn:last-child {
   margin-left: 10px;
+  font-family: 'Inforiver Sans';
 }
 .sidePanel.yellow_theme.column-sidebar-container .list {
   background-color: #585858;
@@ -35077,7 +35092,7 @@ g.bullet-fixed-axis .axis-line path {
   background: #ffffff;
   border: 1px solid #222;
   color: #222;
-  font-family: 'Segoe UI', 'Helvetica Neue', sans-serif !important;
+  font-family: 'Inforiver Sans' !important;
   text-overflow: ellipsis;
   display: inline-block;
   vertical-align: top;
@@ -35525,6 +35540,74 @@ g.bullet-fixed-axis .axis-line path {
 .side-bar-control-dropdown.dropdownOption-toolbar {
   max-height: 300px !important;
 }
+.darkToolbar .forecast-list {
+  background: #585858;
+  border: 1px solid #e6e6e6;
+  padding: 10px;
+}
+.darkToolbar .forecast-list .forecasted-list {
+  color: #f5f5f5;
+}
+.darkToolbar .forecast-list .forecasted-list .forecast-period-type-flex {
+  display: flex;
+  flex-direction: row;
+  width: 224px;
+}
+.darkToolbar .forecast-list .forecasted-list .forecast-period-type-flex .sidebar-label {
+  width: 40px;
+}
+.darkToolbar .forecast-list .forecasted-list .forecast-period-type-flex .forecast-colon {
+  font-size: 12px;
+  color: #f5f5f5;
+}
+.darkToolbar .forecast-list .forecasted-list .forecast-period-type-flex .forecast-period-type {
+  margin-left: 5px;
+  font-size: 12px;
+  white-space: nowrap;
+  width: 220px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.darkToolbar .forecast-list .forecasted-list .forecast-separator {
+  border: 1px solid #e6e6e6;
+  width: 233px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.lightToolbar .forecast-list {
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  padding: 10px;
+}
+.lightToolbar .forecast-list .forecasted-list {
+  color: #333333;
+}
+.lightToolbar .forecast-list .forecasted-list .forecast-period-type-flex {
+  display: flex;
+  flex-direction: row;
+  width: 224px;
+}
+.lightToolbar .forecast-list .forecasted-list .forecast-period-type-flex .sidebar-label {
+  width: 40px;
+}
+.lightToolbar .forecast-list .forecasted-list .forecast-period-type-flex .forecast-colon {
+  font-size: 12px;
+  color: #333333;
+}
+.lightToolbar .forecast-list .forecasted-list .forecast-period-type-flex .forecast-period-type {
+  margin-left: 5px;
+  font-size: 12px;
+  white-space: nowrap;
+  width: 220px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.lightToolbar .forecast-list .forecasted-list .forecast-separator {
+  border: 1px solid #cccccc;
+  width: 233px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 .column-sidebar-container {
   position: absolute;
   height: 100%;
@@ -35542,7 +35625,7 @@ g.bullet-fixed-axis .axis-line path {
   font-size: 14px;
 }
 .column-sidebar-container .sidebar-header-text {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   font-weight: 350;
   font-size: 20px;
@@ -35553,7 +35636,7 @@ g.bullet-fixed-axis .axis-line path {
 .column-sidebar-container .sidebar-label.title {
   padding: 8px 0px;
   font-size: 14px;
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
 }
 .column-sidebar-container .sidebar-header-info {
   padding-left: 5px;
@@ -35621,6 +35704,7 @@ g.bullet-fixed-axis .axis-line path {
   margin-top: 6px !important;
 }
 .column-sidebar-container .bf-ui-form-select {
+  font-family: 'Inforiver Sans' !important;
   cursor: pointer;
 }
 .column-sidebar-container .expression-input {
@@ -35632,7 +35716,7 @@ g.bullet-fixed-axis .axis-line path {
 }
 .column-sidebar-container .sidebar-label,
 .column-sidebar-container .form-checkbox span {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   font-size: 12px;
 }
@@ -35643,7 +35727,7 @@ g.bullet-fixed-axis .axis-line path {
   padding-top: 0rem;
 }
 .column-sidebar-container .sidebar-sub-label {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   font-size: 11px;
   line-height: 150%;
@@ -35707,6 +35791,14 @@ g.bullet-fixed-axis .axis-line path {
   height: 10px;
   background-repeat: no-repeat;
 }
+.column-sidebar-container .sidebar-form-control .sidebar-label-flex {
+  display: flex;
+  justify-content: space-between;
+}
+.column-sidebar-container .sidebar-form-control .sidebar-label-flex .configure-button {
+  color: #0078d4;
+  cursor: pointer;
+}
 .column-sidebar-container .sidebar-form-control.sidebar-alloc-operation input[type='radio'] {
   margin-left: 0;
   margin-right: 5px;
@@ -35719,7 +35811,7 @@ g.bullet-fixed-axis .axis-line path {
   min-height: 64px;
   background: #dddddd;
   border: 1px solid #dddddd;
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -35738,12 +35830,13 @@ g.bullet-fixed-axis .axis-line path {
 }
 .column-sidebar-container .sidebar-submit-btn,
 .column-sidebar-container .sidebar-cancel-btn {
+  font-family: 'Inforiver Sans';
   margin-left: 8px;
 }
 .column-sidebar-container .error-label {
   color: red !important;
   font-size: 12px;
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   background: #f4f4f4;
   padding: 5px 4px;
 }
@@ -35819,7 +35912,7 @@ g.bullet-fixed-axis .axis-line path {
   margin-right: 8px;
 }
 .column-sidebar-container .list-content {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -35910,7 +36003,7 @@ g.bullet-fixed-axis .axis-line path {
 }
 .column-sidebar-container .info-label {
   color: #666666;
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -35919,6 +36012,7 @@ g.bullet-fixed-axis .axis-line path {
 .column-sidebar-container .description {
   margin-top: 6px !important;
   padding: 0px 5px !important;
+  font-family: 'Inforiver Sans';
   min-width: 100%;
 }
 .column-sidebar-container .column-switch {
@@ -35956,6 +36050,54 @@ g.bullet-fixed-axis .axis-line path {
 }
 .column-sidebar-container.darkToolbar .sign-icon::before {
   background-image: url("data:image/svg+xml,%3Csvg width='8' height='10' viewBox='0 0 8 10' fill='%23FFFFFF' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M3.5625 0.1875V3.25H0.5V4.125H3.5625V7.1875H4.4375V4.125H7.5V3.25H4.4375V0.1875H3.5625ZM0.5 8.9375V9.8125H7.5V8.9375H0.5Z'%0A/%3E%3C/svg%3E");
+}
+.forecast-contents .forecast-flex-row {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  padding-top: 10px;
+}
+.forecast-contents .forecast-flex-row .forecast-flex-data {
+  display: flex;
+}
+.forecast-contents .forecast-flex-row .content-label {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  width: 320px;
+}
+.forecast-contents .forecast-flex-row .period-from {
+  width: 160px;
+}
+.forecast-contents .forecast-flex-row .period-to {
+  width: 160px;
+}
+.forecast-contents .forecast-flex-row .series-type {
+  width: 130px;
+}
+.forecast-contents .forecast-flex-row .series-type-dropdown {
+  width: 160px;
+}
+.forecast-contents .forecast-flex-row .series-type-dropdown.series-type-disable .filterValue {
+  background-color: #f5f5f5 !important;
+}
+.forecast-contents .forecast-flex-row .delete-forecast {
+  display: flex;
+  align-items: center;
+  padding-left: 14px;
+  background: none;
+  border: 0px;
+}
+.add-new-button {
+  height: 16px;
+  color: #0078d4;
+  font-size: 12px;
+  font-weight: 600;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-top: 15px;
+  margin-right: 10px;
 }
 .column-sidebar-container-overlay {
   background: #1d1d1d12;
@@ -36110,7 +36252,7 @@ g.bullet-fixed-axis .axis-line path {
   padding-right: 1px;
 }
 .sync-content {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   width: 249px;
   height: 51px;
   font-style: normal;
@@ -36143,7 +36285,7 @@ g.bullet-fixed-axis .axis-line path {
 .sync-label {
   width: 253px;
   height: 14.53px;
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
@@ -36164,13 +36306,13 @@ g.bullet-fixed-axis .axis-line path {
   display: flex;
 }
 .sync-info-text {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   margin-top: 10px;
   font-size: 11px;
 }
 .sync-info-time {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   font-size: 11px;
   text-align: right;
@@ -36181,7 +36323,7 @@ g.bullet-fixed-axis .axis-line path {
   cursor: pointer;
 }
 .sync-description {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   font-weight: 400;
   font-size: 11px;
@@ -40046,7 +40188,7 @@ g.bullet-fixed-axis .axis-line path {
 .cf-save-button {
   color: #ffffff;
   background-color: #0078d4;
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'InfoRiver Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
@@ -40065,7 +40207,7 @@ g.bullet-fixed-axis .axis-line path {
 .cf-cancel-button {
   color: #333333;
   background-color: #f4f4f4;
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'InfoRiver Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
@@ -40096,6 +40238,7 @@ g.bullet-fixed-axis .axis-line path {
   transition: background 0.2s, border 0.2s, box-shadow 0.2s, color 0.2s;
   width: 100%;
   margin-top: 6px;
+  font-family: 'Inforiver Sans';
   /* Chrome, Safari, Edge, Opera */
   /* Firefox */
 }
@@ -40339,7 +40482,7 @@ g.bullet-fixed-axis .axis-line path {
   margin: 0px 13px 12px 13px;
 }
 .ibcs-editor {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   width: 100%;
 }
 .ibcs-editor .sidebar-header-close {
@@ -40350,9 +40493,11 @@ g.bullet-fixed-axis .axis-line path {
   padding-right: 1px !important;
 }
 .ibcs-editor select.bf-ui-form-select.cf-select {
+  font-family: 'Inforiver Sans';
   margin-top: 6px !important;
 }
 .ibcs-editor input.bf-ui-form-input.form-input {
+  font-family: 'Inforiver Sans';
   margin-top: 6px !important;
 }
 .cf-wrapper {
@@ -46879,7 +47024,7 @@ span.button:hover .ms-Icon {
 .theme-editor-options optgroup,
 .theme-editor-options select,
 .theme-editor-options textarea {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
 }
 .theme-editor-options .theme-editor-title {
   display: flex;
@@ -46975,6 +47120,7 @@ span.button:hover .ms-Icon {
   padding: 9px;
   border-radius: 2px;
   cursor: pointer;
+  font-family: 'Inforiver Sans' !important;
 }
 .theme-editor-options .theme-color-container .swatch {
   border: 1px solid #dddddd !important;
@@ -47497,7 +47643,7 @@ span.button:hover .ms-Icon {
   margin-bottom: 10px;
 }
 .history-logs .sidebar-header-text {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   font-weight: 350;
   font-size: 21px;
@@ -47544,14 +47690,14 @@ span.button:hover .ms-Icon {
   border: 1px solid #dddddd !important;
 }
 .history-logs .sidebar-label {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
   line-height: 100%;
 }
 .history-logs .sidebar-sub-label {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   font-size: 12px;
   line-height: 100%;
@@ -47606,7 +47752,7 @@ span.button:hover .ms-Icon {
   border-radius: 2px;
   font-size: 12px;
   margin-top: 8px;
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   cursor: pointer;
 }
 .history-logs .select-icon {
@@ -47619,7 +47765,7 @@ span.button:hover .ms-Icon {
   min-height: 64px;
   background: #dddddd;
   border: 1px solid #dddddd;
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -47639,7 +47785,7 @@ span.button:hover .ms-Icon {
 .history-logs .sidebar-cancel-btn {
   background-color: #f4f4f4;
   padding: 6px 16px;
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
@@ -47864,6 +48010,7 @@ span.button:hover .ms-Icon {
   text-align: left;
   color: #333333;
   font-size: 12px;
+  font-family: 'Inforiver Sans';
 }
 .popup-container.light {
   background-color: #ffffff;
@@ -58646,7 +58793,7 @@ input:checked + .slider:before {
   padding: 6px 10px;
 }
 .kpi-explorer * {
-  font-family: 'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif;
+  font-family: 'Inforiver Sans';
   font-size: 12px;
   font-style: normal;
   font-weight: 400;
