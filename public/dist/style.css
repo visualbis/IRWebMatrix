@@ -43202,6 +43202,9 @@ span.button:hover .ms-Icon {
   align-items: center;
   margin: 6px 0;
 }
+.list-item-label:hover {
+  text-decoration: underline;
+}
 .command_container {
   margin-left: auto;
   display: flex;
