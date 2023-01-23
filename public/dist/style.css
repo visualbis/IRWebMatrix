@@ -33988,6 +33988,7 @@ g.bullet-fixed-axis .axis-line path {
 }
 .column-as-measure-mapping-body .column-as-measure-mapping-container .column-as-measure-mapping-column-content:hover {
   background-color: #f3f3f3;
+  color: #000;
 }
 .column-as-measure-mapping-body .column-as-measure-mapping-container .column-as-measure-mapping-column-content .column-as-measure-mapping-column-content-checkbox {
   display: block;
