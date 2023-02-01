@@ -12067,6 +12067,7 @@ g.bullet-fixed-axis .axis-line path {
 .donut-legend-container .legend-container .legend .legend-indicator {
   width: 10px;
   height: 10px;
+  margin-right: 4px;
 }
 .donut-legend-container .legend-container .legend .sparkline-label {
   overflow: hidden;
