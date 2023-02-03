@@ -23373,7 +23373,7 @@ g.bullet-fixed-axis .axis-line path {
   filter: invert(100%);
 }
 .tab-component-container.darkThemePanel .display-settings .tab-selector {
-  padding: 2px 49px 0 11px;
+  padding: 2px 20px 0 11px;
   justify-content: space-between;
 }
 .tab-component-container.darkThemePanel .display-settings .tab-selector .tab-selector-item {
@@ -24095,7 +24095,7 @@ g.bullet-fixed-axis .axis-line path {
   background-color: #f5f5f5;
 }
 .tab-component-container.lightThemePanel .display-settings .tab-selector {
-  padding: 2px 49px 0 11px;
+  padding: 2px 20px 0 11px;
   justify-content: space-between;
 }
 .tab-component-container.lightThemePanel .display-settings .tab-selector .tab-selector-item {
@@ -24823,7 +24823,7 @@ g.bullet-fixed-axis .axis-line path {
   filter: invert(100%);
 }
 .sidePanel.darkToolbar .display-settings .tab-selector {
-  padding: 2px 49px 0 11px;
+  padding: 2px 20px 0 11px;
   justify-content: space-between;
 }
 .sidePanel.darkToolbar .display-settings .tab-selector .tab-selector-item {
@@ -25560,7 +25560,7 @@ g.bullet-fixed-axis .axis-line path {
   background-color: #f5f5f5;
 }
 .sidePanel.lightToolbar .display-settings .tab-selector {
-  padding: 2px 49px 0 11px;
+  padding: 2px 20px 0 11px;
   justify-content: space-between;
 }
 .sidePanel.lightToolbar .display-settings .tab-selector .tab-selector-item {
@@ -26282,7 +26282,7 @@ g.bullet-fixed-axis .axis-line path {
   background-color: #444444;
 }
 .sidePanel.green_theme .display-settings .tab-selector {
-  padding: 2px 49px 0 11px;
+  padding: 2px 20px 0 11px;
   justify-content: space-between;
 }
 .sidePanel.green_theme .display-settings .tab-selector .tab-selector-item {
@@ -27004,7 +27004,7 @@ g.bullet-fixed-axis .axis-line path {
   background-color: #444444;
 }
 .sidePanel.yellow_theme .display-settings .tab-selector {
-  padding: 2px 49px 0 11px;
+  padding: 2px 20px 0 11px;
   justify-content: space-between;
 }
 .sidePanel.yellow_theme .display-settings .tab-selector .tab-selector-item {
