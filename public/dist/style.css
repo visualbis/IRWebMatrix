@@ -60,9 +60,6 @@
 .w-50 {
   width: 50%;
 }
-.w-320px {
-  width: 320px;
-}
 .d-flex {
   display: flex;
 }
@@ -11893,6 +11890,22 @@ ql-snow {
 .note-renderer {
   line-height: normal;
   white-space: pre-wrap;
+}
+.note-renderer .notes-content p {
+  font-family: 'Inforiver Sans';
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: unset;
+  width: calc(100% - 0px);
+  padding-right: 2px;
+  z-index: 1;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  word-break: keep-all;
 }
 .note-renderer p {
   font-size: 12px;
@@ -40241,7 +40254,7 @@ g.bullet-fixed-axis .axis-line path {
   line-height: 20px;
   text-align: Left;
   font-style: normal;
-  width: 60%;
+  width: 40%;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
