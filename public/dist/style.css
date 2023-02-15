@@ -48826,6 +48826,10 @@ g.bullet-fixed-axis .axis-line path {
 .themeDark .forecast-contents .forecast-flex-row .series-type-dropdown {
   width: 160px;
 }
+.themeDark .forecast-contents .forecast-flex-row .series-type-dropdown .period-boxes-container {
+  margin-bottom: 0;
+  width: 160px;
+}
 .themeDark .forecast-contents .forecast-flex-row .series-type-dropdown.series-type-disable .filterValue {
   background-color: #999999 !important;
 }
@@ -48836,7 +48840,6 @@ g.bullet-fixed-axis .axis-line path {
   background: none;
   border: 0px;
   height: 32px;
-  color: #f5f5f5;
 }
 .themeDark .forecast-contents .add-new-forecast.disabled {
   color: #999999;
@@ -48903,6 +48906,10 @@ g.bullet-fixed-axis .axis-line path {
 .themeLight .forecast-contents .forecast-flex-row .series-type-dropdown {
   width: 160px;
 }
+.themeLight .forecast-contents .forecast-flex-row .series-type-dropdown .period-boxes-container {
+  margin-bottom: 0;
+  width: 160px;
+}
 .themeLight .forecast-contents .forecast-flex-row .series-type-dropdown.series-type-disable .filterValue {
   background-color: #edebe9 !important;
 }
@@ -48913,7 +48920,6 @@ g.bullet-fixed-axis .axis-line path {
   background: none;
   border: 0px;
   height: 32px;
-  color: #333333;
 }
 .themeLight .forecast-contents .add-new-forecast.disabled {
   color: #edebe9;
@@ -48980,6 +48986,10 @@ g.bullet-fixed-axis .axis-line path {
 .yellow_theme .forecast-contents .forecast-flex-row .series-type-dropdown {
   width: 160px;
 }
+.yellow_theme .forecast-contents .forecast-flex-row .series-type-dropdown .period-boxes-container {
+  margin-bottom: 0;
+  width: 160px;
+}
 .yellow_theme .forecast-contents .forecast-flex-row .series-type-dropdown.series-type-disable .filterValue {
   background-color: #999999 !important;
 }
@@ -48990,7 +49000,6 @@ g.bullet-fixed-axis .axis-line path {
   background: none;
   border: 0px;
   height: 32px;
-  color: #ffff00;
 }
 .yellow_theme .forecast-contents .add-new-forecast.disabled {
   color: #999999;
@@ -49057,6 +49066,10 @@ g.bullet-fixed-axis .axis-line path {
 .green_theme .forecast-contents .forecast-flex-row .series-type-dropdown {
   width: 160px;
 }
+.green_theme .forecast-contents .forecast-flex-row .series-type-dropdown .period-boxes-container {
+  margin-bottom: 0;
+  width: 160px;
+}
 .green_theme .forecast-contents .forecast-flex-row .series-type-dropdown.series-type-disable .filterValue {
   background-color: #999999 !important;
 }
@@ -49067,7 +49080,6 @@ g.bullet-fixed-axis .axis-line path {
   background: none;
   border: 0px;
   height: 32px;
-  color: #00ff00;
 }
 .green_theme .forecast-contents .add-new-forecast.disabled {
   color: #999999;
