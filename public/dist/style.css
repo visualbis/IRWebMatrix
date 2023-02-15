@@ -48459,28 +48459,32 @@ g.bullet-fixed-axis .axis-line path {
 .column-sidebar-container.darkToolbar .sign-icon::before {
   background-image: url("data:image/svg+xml,%3Csvg width='8' height='10' viewBox='0 0 8 10' fill='%23FFFFFF' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M3.5625 0.1875V3.25H0.5V4.125H3.5625V7.1875H4.4375V4.125H7.5V3.25H4.4375V0.1875H3.5625ZM0.5 8.9375V9.8125H7.5V8.9375H0.5Z'%0A/%3E%3C/svg%3E");
 }
-.column-sidebar-container .rolling-forecast-form {
+.column-sidebar-container .closed-period-range-form {
   display: flex;
   gap: 10px;
 }
-.column-sidebar-container .rolling-forecast-form > div {
+.column-sidebar-container .closed-period-range-form > div {
   flex: 1;
 }
-.column-sidebar-container .rolling-forecast-form .filterValue {
+.column-sidebar-container .closed-period-range-form .filterValue {
   height: 32px !important;
 }
-.column-sidebar-container .rolling-forecast-form .filterValue.disabled {
+.column-sidebar-container .closed-period-range-form .filterValue.disabled {
   background-color: #ebebeb !important;
+  color: #333333;
 }
-.column-sidebar-container .rolling-forecast-form .label {
+.column-sidebar-container .closed-period-range-form .label {
   font-family: 'Inforiver Sans';
   font-style: normal;
   font-size: 12px;
   margin-bottom: 6px;
 }
-.column-sidebar-container .rolling-forecast-form .period-boxes-container {
+.column-sidebar-container .closed-period-range-form .period-boxes-container {
   margin-bottom: 0;
   width: 125px;
+}
+.column-sidebar-container .closed-period-range-form .period-boxes-container .start-period-box {
+  background-color: #ffffff !important;
 }
 .column-sidebar-container-overlay {
   background: #1d1d1d12;
@@ -48833,6 +48837,10 @@ g.bullet-fixed-axis .axis-line path {
 .themeDark .forecast-contents .forecast-flex-row .series-type-dropdown.series-type-disable .filterValue {
   background-color: #999999 !important;
 }
+.themeDark .forecast-contents .forecast-flex-row .series-type-dropdown .moving-average-configuration {
+  width: 160px;
+  height: 32px;
+}
 .themeDark .forecast-contents .forecast-flex-row .delete-forecast {
   display: flex;
   align-items: center;
@@ -48912,6 +48920,10 @@ g.bullet-fixed-axis .axis-line path {
 }
 .themeLight .forecast-contents .forecast-flex-row .series-type-dropdown.series-type-disable .filterValue {
   background-color: #edebe9 !important;
+}
+.themeLight .forecast-contents .forecast-flex-row .series-type-dropdown .moving-average-configuration {
+  width: 160px;
+  height: 32px;
 }
 .themeLight .forecast-contents .forecast-flex-row .delete-forecast {
   display: flex;
@@ -48993,6 +49005,10 @@ g.bullet-fixed-axis .axis-line path {
 .yellow_theme .forecast-contents .forecast-flex-row .series-type-dropdown.series-type-disable .filterValue {
   background-color: #999999 !important;
 }
+.yellow_theme .forecast-contents .forecast-flex-row .series-type-dropdown .moving-average-configuration {
+  width: 160px;
+  height: 32px;
+}
 .yellow_theme .forecast-contents .forecast-flex-row .delete-forecast {
   display: flex;
   align-items: center;
@@ -49072,6 +49088,10 @@ g.bullet-fixed-axis .axis-line path {
 }
 .green_theme .forecast-contents .forecast-flex-row .series-type-dropdown.series-type-disable .filterValue {
   background-color: #999999 !important;
+}
+.green_theme .forecast-contents .forecast-flex-row .series-type-dropdown .moving-average-configuration {
+  width: 160px;
+  height: 32px;
 }
 .green_theme .forecast-contents .forecast-flex-row .delete-forecast {
   display: flex;
@@ -88574,6 +88594,15 @@ ql-snow {
   padding-bottom: 0px;
   position: relative;
 }
+.add-model-documentation .sidebar-inner-container .sidebar-header .sidebar-header-text {
+  position: relative;
+  top: 5px !important;
+}
+.add-model-documentation .sidebar-inner-container .sidebar-header .sidebar-header-info {
+  padding-left: 10px;
+  position: relative;
+  cursor: pointer;
+}
 .add-model-documentation .add-documentation-section {
   border: 1px solid #dddddd;
   height: 80%;
@@ -96847,16 +96876,28 @@ li.CodeMirror-hint-active {
 }
 .rule .date-input-container .date-modal-container {
   display: flex;
-  flex-direction: column;
   height: auto;
+  flex-direction: column;
   position: absolute;
+  justify-content: center;
   padding: 15px;
   gap: 7px;
   box-shadow: 0 1em 4em #00000012;
-  width: 203px;
-  background-color: white;
+  width: 220px;
   z-index: 100;
+  background-color: white;
   right: 0;
+}
+.rule .date-input-container .date-modal-container .date-modal-container-select {
+  display: flex;
+  justify-content: space-between;
+}
+.rule .date-input-container .date-modal-container .today-date-container {
+  font-size: 15px;
+  text-align: left;
+  border: 0.5px solid;
+  padding: 10px;
+  margin-top: 2px;
 }
 .rule .date-input-container .date-modal-container.top-position-modal {
   top: -32px;
@@ -96869,10 +96910,13 @@ li.CodeMirror-hint-active {
 .rule .date-input-container .date-modal-container .label-container .footer-text {
   margin-left: 2px;
   font-size: 12px;
+  margin-top: 2px;
 }
 .rule .date-input-container .date-modal-container .date-filter-wrapper {
   position: relative;
   height: 175px;
+  margin-left: 6px;
+  margin-top: 2px;
 }
 .rule .date-input-container .date-modal-container .date-filter-wrapper .DatePicker {
   position: absolute;
@@ -97345,7 +97389,9 @@ li.CodeMirror-hint-active {
   font-size: 12px;
   height: 2.45em;
 }
-.rule .date-input-container .date-modal-container .date-filter-wrapper .Calendar__day:not(.-blank):not(.-selectedStart):not(.-selectedEnd):not(.-selectedBetween):not(.-selected):hover {
+.rule .date-input-container .date-modal-container .date-filter-wrapper .Calendar__day:not(.-blank):not(.-selectedStart):not(.-selectedEnd):not(
+            .-selectedBetween
+          ):not(.-selected):hover {
   background: #eaeaea;
   border-radius: 50%;
   color: var(--cl-color-black);
@@ -97380,10 +97426,14 @@ li.CodeMirror-hint-active {
   border-top-left-radius: 100em;
   border-bottom-left-radius: 100em;
 }
-.rule .date-input-container .date-modal-container .date-filter-wrapper .Calendar__day.-weekend:not(.-selected):not(.-blank):not(.-selectedStart):not(.-selectedEnd):not(.-selectedBetween) {
+.rule .date-input-container .date-modal-container .date-filter-wrapper .Calendar__day.-weekend:not(.-selected):not(.-blank):not(.-selectedStart):not(
+            .-selectedEnd
+          ):not(.-selectedBetween) {
   color: var(--cl-color-error);
 }
-.rule .date-input-container .date-modal-container .date-filter-wrapper .Calendar__day.-weekend.-today:not(.-selectedStart):not(.-selectedEnd):not(.-selectedBetween)::after {
+.rule .date-input-container .date-modal-container .date-filter-wrapper .Calendar__day.-weekend.-today:not(.-selectedStart):not(.-selectedEnd):not(
+            .-selectedBetween
+          )::after {
   background: var(--cl-color-error);
 }
 .rule .date-input-container .date-modal-container .date-filter-wrapper .Calendar__day.-disabled {
@@ -97400,7 +97450,9 @@ li.CodeMirror-hint-active {
   color: #000;
   position: relative;
 }
-.rule .date-input-container .date-modal-container .date-filter-wrapper .Calendar__day.-today:not(.-selectedStart):not(.-selectedEnd):not(.-selectedBetween)::after {
+.rule .date-input-container .date-modal-container .date-filter-wrapper .Calendar__day.-today:not(.-selectedStart):not(.-selectedEnd):not(
+            .-selectedBetween
+          )::after {
   content: '';
   position: absolute;
   bottom: 0.2em;
@@ -97413,7 +97465,9 @@ li.CodeMirror-hint-active {
   transform: translateX(-50%);
   transition: 0.2s;
 }
-.rule .date-input-container .date-modal-container .date-filter-wrapper .Calendar__day.-today:hover:not(.-selectedStart):not(.-selectedEnd):not(.-selectedBetween)::after {
+.rule .date-input-container .date-modal-container .date-filter-wrapper .Calendar__day.-today:hover:not(.-selectedStart):not(.-selectedEnd):not(
+            .-selectedBetween
+          )::after {
   opacity: 0;
 }
 .rule .date-input-container .date-modal-container .date-filter-wrapper .Calendar__day.-blank {
