@@ -4658,6 +4658,7 @@ Generated using nucleoapp.com
   display: inline-block;
   background-image: url(bb9a62053f553a97604c4a42b25cdd61.svg);
   background-repeat: no-repeat;
+  position: relative;
 }
 .infoRIver.dark-scenario-settings {
   background-position: 0px 0px;
@@ -6046,6 +6047,7 @@ Generated using nucleoapp.com
   display: inline-block;
   background-image: url(ae0ecb251bb787382df82eba3f27010c.svg);
   background-repeat: no-repeat;
+  position: relative;
 }
 .infoRiver.light-scenario-settings {
   background-position: 0px 0px;
@@ -15295,12 +15297,20 @@ g.bullet-fixed-axis .axis-line path {
 .toast-container .toast-content .toast-message {
   word-wrap: break-word;
 }
+.toast-container .toast-content .action-link {
+  color: #2e7fec;
+  opacity: 0.8;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.toast-container .toast-content .action-link:hover {
+  opacity: 1;
+}
 .toast-container .toast-icon {
   margin-right: 12px;
   font-size: 16px;
   position: relative;
   top: 1px;
-  cursor: pointer;
 }
 .toast-container .toast-icon.external-icons,
 .toast-container .toast-icon-svg {
@@ -31605,7 +31615,6 @@ g.bullet-fixed-axis .axis-line path {
 .select_list {
   display: flex;
   align-items: center;
-  justify-content: center;
   padding: 0 12px;
   gap: 5px;
 }
@@ -31689,6 +31698,9 @@ g.bullet-fixed-axis .axis-line path {
 }
 .tab-component-container.darkThemePanel.column-sidebar-container {
   background-color: #444444;
+}
+.tab-component-container.darkThemePanel.column-sidebar-container input.bf-ui-form-input.form-input.percentage-input {
+  margin-top: 6px !important;
 }
 .tab-component-container.darkThemePanel.column-sidebar-container .mrx-modal .ib_header .closePopup {
   color: #f5f5f5;
@@ -32415,6 +32427,9 @@ g.bullet-fixed-axis .axis-line path {
 .tab-component-container.lightThemePanel.column-sidebar-container {
   background-color: #f5f5f5;
 }
+.tab-component-container.lightThemePanel.column-sidebar-container input.bf-ui-form-input.form-input.percentage-input {
+  margin-top: 6px !important;
+}
 .tab-component-container.lightThemePanel.column-sidebar-container .mrx-modal .ib_header .closePopup {
   color: #333333;
 }
@@ -33100,6 +33115,17 @@ g.bullet-fixed-axis .axis-line path {
 .sidePanel {
   font-family: 'Inforiver Sans' !important;
 }
+.sidePanel .percentage-input {
+  margin-top: 6px !important;
+}
+.sidePanel .growth-select-option-container {
+  margin-top: 10px;
+}
+.sidePanel .growth-select {
+  width: 68px;
+  margin-top: 2px !important;
+  margin-right: 20px;
+}
 .sidePanel.darkToolbar .preset-action-container,
 .sidePanel.darkToolbar .preset-list-label {
   color: #f5f5f5;
@@ -33139,6 +33165,9 @@ g.bullet-fixed-axis .axis-line path {
 }
 .sidePanel.darkToolbar.column-sidebar-container {
   background-color: #444444;
+}
+.sidePanel.darkToolbar.column-sidebar-container input.bf-ui-form-input.form-input.percentage-input {
+  margin-top: 6px !important;
 }
 .sidePanel.darkToolbar.column-sidebar-container .mrx-modal .ib_header .closePopup {
   color: #f5f5f5;
@@ -33880,6 +33909,9 @@ g.bullet-fixed-axis .axis-line path {
 .sidePanel.lightToolbar.column-sidebar-container {
   background-color: #f5f5f5;
 }
+.sidePanel.lightToolbar.column-sidebar-container input.bf-ui-form-input.form-input.percentage-input {
+  margin-top: 6px !important;
+}
 .sidePanel.lightToolbar.column-sidebar-container .mrx-modal .ib_header .closePopup {
   color: #333333;
 }
@@ -34602,6 +34634,9 @@ g.bullet-fixed-axis .axis-line path {
 .sidePanel.green_theme.column-sidebar-container {
   background-color: #444444;
 }
+.sidePanel.green_theme.column-sidebar-container input.bf-ui-form-input.form-input.percentage-input {
+  margin-top: 6px !important;
+}
 .sidePanel.green_theme.column-sidebar-container .mrx-modal .ib_header .closePopup {
   color: #00ff00;
 }
@@ -35323,6 +35358,9 @@ g.bullet-fixed-axis .axis-line path {
 }
 .sidePanel.yellow_theme.column-sidebar-container {
   background-color: #444444;
+}
+.sidePanel.yellow_theme.column-sidebar-container input.bf-ui-form-input.form-input.percentage-input {
+  margin-top: 6px !important;
 }
 .sidePanel.yellow_theme.column-sidebar-container .mrx-modal .ib_header .closePopup {
   color: #ffff00;
@@ -36537,6 +36575,15 @@ g.bullet-fixed-axis .axis-line path {
 }
 .toolbar-button svg.disabled {
   opacity: 0.5;
+}
+.toolbar-button .icon-warning-indicator {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #dc3545;
 }
 .toolbar-button.toolbar_button_row {
   flex-direction: row;
@@ -62263,6 +62310,9 @@ span.button:hover .ms-Icon {
   display: flex;
   width: 109px;
 }
+.columnStyle .select_list {
+  justify-content: center !important;
+}
 .columnPresetTheme {
   align-items: center;
   font-size: 11px !important;
@@ -76115,17 +76165,27 @@ input:checked + .slider:before {
 .writeback-with-scenario .existingVersionName {
   font-weight: 600;
 }
-.writeback-with-scenario .checkbox-labelWrap > * {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+.writeback-with-scenario .checkbox-labelWrap {
+  display: flex;
+  align-items: center;
 }
 .writeback-with-scenario .checkbox-label {
   font-size: 14px;
   font-weight: 600;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.writeback-with-scenario .checkbox-labelIcon {
+  width: 13px;
+  height: 13px;
+  margin-left: 10px;
 }
 .writeback-with-scenario .checkbox-subLabel {
   color: #777777;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .writeback-with-scenario .link-btn {
   font-style: normal;
@@ -91002,7 +91062,7 @@ ql-snow {
 }
 .header-read-view-actions.showOnHover {
   display: none !important;
-  z-index: 8;
+  z-index: 5;
 }
 .header-read-view-actions.showOnHover:hover {
   display: flex !important;
