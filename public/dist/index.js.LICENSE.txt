@@ -76,13 +76,6 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
 /*!
- * is-plain-object <https://github.com/jonschlinkert/is-plain-object>
- *
- * Copyright (c) 2014-2017, Jon Schlinkert.
- * Released under the MIT License.
- */
-
-/*!
  * js-logger - http://github.com/jonnyreeves/js-logger
  * Jonny Reeves, http://jonnyreeves.co.uk/
  * js-logger may be freely distributed under the MIT license.
@@ -98,6 +91,8 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
  Please report any issue at https://github.com/rotemdan/lzutf8.js/issues
 */
+
+/*! @license DOMPurify 3.0.0 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/3.0.0/LICENSE */
 
 /*! @license https://github.com/onury/invert-color */
 
